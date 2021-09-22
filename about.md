@@ -31,5 +31,11 @@ We also have a [Slack channel][2] on the University of York Slack workspace, whe
 any time to get help and advice. This is currently only available to staff and research
 postgraduate students.
 
+Finally, we have a [Google Calendar][3] that contains information about our events. You should get access to
+this when joining the mailing list!
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_rupc0j42t327dofm923n1p3abo%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 [1]: https://groups.google.com/a/york.ac.uk/forum/?hl=en-GB#!forum/research-coding-club-group/join
 [2]: https://uoy.slack.com/archives/C015ZG0CVBL
+[3]: https://calendar.google.com/calendar/u/0?cid=Y19ydXBjMGo0MnQzMjdkb2ZtOTIzbjFwM2Fib0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t
