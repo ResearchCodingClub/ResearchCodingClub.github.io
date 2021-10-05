@@ -39,7 +39,7 @@ There's a few ways you can get in contact with us:
 
 Finally, we have a [Google Calendar][3] that contains information about our events:
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_rupc0j42t327dofm923n1p3abo%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_rupc0j42t327dofm923n1p3abo%40group.calendar.google.com&ctz=Europe%2FLondon&showTitle=0&showDate=0&showPrint=0&showCalendars=0&mode=AGENDA" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 [1]: https://groups.google.com/a/york.ac.uk/forum/?hl=en-GB#!forum/research-coding-club-group/join
 [2]: https://uoy.slack.com/archives/C015ZG0CVBL
