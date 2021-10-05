@@ -24,12 +24,18 @@ covered are:
 
 and you can see a (mostly!) full list of past seminars on the website homepage.
 
-Subscribe to [our mailing list][1] (you will need to sign into your University of York account) to
-get updates on upcoming meetings.
+## Contact us
 
-We also have a [Slack channel][2] on the University of York Slack workspace, where you can drop in
-any time to get help and advice. This is currently only available to staff and research
-postgraduate students.
+There's a few ways you can get in contact with us:
+
+- To get more information on Research Coding Club, you can [email us][4].
+
+- Subscribe to [our mailing list][1] (you will need to sign into your University
+  of York account) to get updates on upcoming meetings.
+
+- We also have a [Slack channel][2] on the University of York Slack workspace,
+  where you can drop in any time to get help and advice. This is currently only
+  available to staff and research postgraduate students.
 
 Finally, we have a [Google Calendar][3] that contains information about our events:
 
@@ -38,3 +44,4 @@ Finally, we have a [Google Calendar][3] that contains information about our even
 [1]: https://groups.google.com/a/york.ac.uk/forum/?hl=en-GB#!forum/research-coding-club-group/join
 [2]: https://uoy.slack.com/archives/C015ZG0CVBL
 [3]: https://calendar.google.com/calendar/u/0?cid=Y19ydXBjMGo0MnQzMjdkb2ZtOTIzbjFwM2Fib0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t
+[4]: mailto:research-coding-club-group+managers@york.ac.uk
