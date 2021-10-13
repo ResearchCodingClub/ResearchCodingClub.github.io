@@ -9,6 +9,8 @@ tags: version-control basics
 We start the new year off by revisiting an important skill for
 developing software: version control.
 
+You can also download the [original slides](/slides/2021-10-13-intro-version-control.pdf).
+
 ## What you'll need
 
 - git: <https://chryswoods.com/introducing_git/installing.html>
