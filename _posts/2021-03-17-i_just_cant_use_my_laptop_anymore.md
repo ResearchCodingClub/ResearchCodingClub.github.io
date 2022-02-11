@@ -4,7 +4,7 @@ author: Killian Murphy
 tags: performance resources UoY
 ---
 
-Killian ran through some reasons why you might not be able to do your research computing on your laptop anymore, and introduced a range of computational offered to researchers by the University of York to help alleviate this problem.
+Killian ran through some reasons why you might not be able to do your research computing on your laptop anymore, and introduced a range of computational resources offered to researchers by the University of York to help alleviate this problem.
 
 The slides can be found [here][slides].
 
