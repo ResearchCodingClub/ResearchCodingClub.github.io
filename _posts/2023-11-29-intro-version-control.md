@@ -15,5 +15,7 @@ commits, using branches, and pushing and pulling from GitHub.
 
 The slides can be found [here][slides].
 
+Check out [our links to other resources][resources].
 
 [slides]: /slides/2023-11-29-intro-version-control.pdf
+[resources]: /resources/version_control
