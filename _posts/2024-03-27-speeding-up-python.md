@@ -15,5 +15,5 @@ The slides are available [here][slides].
 
 A recording of the talk can be found [here][recording].
 
-[slides]: /slides/2024-03-27-speeding_up_python.pdf
+[slides]: /slides/2024-03-27-speeding-up-python.pdf
 [recording]: https://eu-lti.bbcollab.com/recording/8dc1ed3c874344549e9be481a0226632
