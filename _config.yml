@@ -17,9 +17,11 @@ description: Skills and training for people developing research software
 
 # List of links in the navigation bar
 navbar-links:
+  Course: "course"
+  Code Clinics: "clinics"
   Archive: "archive"
   Categories: "tags"
-  About Research Coding Club: "about"
+  About Us: "about"
   Our Repositories: "https://github.com/ResearchCodingClub"
   Resources:
     - "Resources"               # This is treated specially to parse the "resources collection"
@@ -27,7 +29,7 @@ Tags: "tags"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+#avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
