@@ -14,11 +14,9 @@ programme that will teach you a whole range of skills.
 
 - **Better Software for Better Research: Introduction to the Research Coding
   Course**, Wednesday 22nd October 2025, 2pm to 3pm, online - [sign up form][session1form] (UoY accounts only)
-- **Software lifecycle planning**, Wednesday 5th November 2025, 2pm to 3pm, SLB/107 - sign up form coming soon
-- **Version control**:
-  - **Introduction to Git and GitHub**, Wednesday
-    19th November 2025, 2pm to 4pm, LFA/015 - sign up form coming soon; Repeated <span style="color: #ff0000">Wednesday 21st</span> January 2026
-  - **Git collaboration**, <span style="color: #ff0000">Wednesday 4th</span> February 2026
+- **Version control: Introduction to Git and GitHub**, Wednesday
+    5th November 2025, 2pm to 5pm, LFA/015 - sign up form coming soon; Repeated <span style="color: #ff0000">Wednesday 21st</span> January 2026
+- **Software lifecycle planning**, Wednesday 19th November 2025, 2pm to 3pm, online - sign up form coming soon
 - **Software design**, <span style="color: #ff0000">Wednesday 3rd</span> December 2025
 - **Testing and Continuous Integration**, <span style="color: #ff0000">Wednesday 18th</span> February 2026
 - **Documentation**, <span style="color: #ff0000">Wednesday 4th</span> March 2026
@@ -41,23 +39,12 @@ In this introductory session we will try to understand what the FAIR principles
 are and why they have emerged. We will then introduce some actions on how to
 apply them to software and present a global review of the training programme.
 
-### Software lifecycle planning
-
-**Wednesday 5th November 2025, 2pm to 3pm, SLB/107 - sign up form coming soon**
-
-When you start writing software it is often very useful to think about the
-development process and how you will make your software sustainable in the long
-term. In this module we will introduce important aspects of software development
-in research: software lifecyle, management plan, licences and
-dissemination. This module should allow you to ask yourself the right questions
-when starting a research software project.
-
 ### Version control
 The version control module has two distinct training sessions: one for beginners and one for more advanced users.
 
 #### Introduction to Git and GitHub
 
-**Wednesday 19th November 2025, 2pm to 4pm, LFA/015, hands-on in-person - sign up form coming soon**<br>
+**Wednesday 5th November 2025, 2pm to 5pm, LFA/015, hands-on in-person - sign up form coming soon**<br>
 Repeated <span style="color: #ff0000">Wednesday 21th</span> January 2026, 2pm, hands-on
 in-person.
 
@@ -81,6 +68,17 @@ it easier to understand pull requests and Git history which in turn makes it
 easier to collaborate and work on code with others (including your future
 self!).
 
+
+### Software lifecycle planning
+
+**Wednesday 19th November 2025, 2pm to 3pm, online - sign up form coming soon**
+
+When you start writing software it is often very useful to think about the
+development process and how you will make your software sustainable in the long
+term. In this module we will introduce important aspects of software development
+in research: software lifecyle, management plan, licences and
+dissemination. This module should allow you to ask yourself the right questions
+when starting a research software project.
 
 ### Software design
 <span style="color: #ff0000">Wednesday 3rd</span> December 2025, in person.
