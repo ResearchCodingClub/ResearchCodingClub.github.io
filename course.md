@@ -15,7 +15,8 @@ programme that will teach you a whole range of skills.
 - **Better Software for Better Research: Introduction to the Research Coding
   Course**, Wednesday 22nd October 2025, 2pm to 3pm, online - [sign up form][session1form] (UoY accounts only)
 - **Version control: Introduction to Git and GitHub**, Wednesday
-    5th November 2025, 2pm to 5pm, LFA/015 - sign up form coming soon; Repeated <span style="color: #ff0000">Wednesday 21st</span> January 2026
+    5th November 2025, 2pm to 5pm - sign up form coming soon
+    - Repeated <span style="color: #ff0000">Wednesday 21st</span> January 2026
 - **Software lifecycle planning**, Wednesday 19th November 2025, 2pm to 3pm, online - sign up form coming soon
 - **Software design**, <span style="color: #ff0000">Wednesday 3rd</span> December 2025
 - **Testing and Continuous Integration**, <span style="color: #ff0000">Wednesday 18th</span> February 2026
