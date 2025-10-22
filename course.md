@@ -15,9 +15,9 @@ programme that will teach you a whole range of skills.
 - **Better Software for Better Research: Introduction to the Research Coding
   Course**, Wednesday 22nd October 2025, 2pm to 3pm, online - [sign up form][session1form] (UoY accounts only)
 - **Version control: Introduction to Git and GitHub**, Wednesday
-    5th November 2025, 2pm to 5pm - [sign up form][session2form]
+    5th November 2025, 2pm to 5pm - [sign up form][session2form] (UoY accounts only)
     - Repeated <span style="color: #ff0000">Wednesday 21st</span> January 2026
-- **Software lifecycle planning**, Wednesday 19th November 2025, 2pm to 3pm, online - [sign up form][session3form]
+- **Software lifecycle planning**, Wednesday 19th November 2025, 2pm to 3pm, online - [sign up form][session3form] (UoY accounts only)
 - **Software design**, <span style="color: #ff0000">Wednesday 3rd</span> December 2025
 - **Testing and Continuous Integration**, <span style="color: #ff0000">Wednesday 18th</span> February 2026
 - **Documentation**, <span style="color: #ff0000">Wednesday 4th</span> March 2026
@@ -45,9 +45,8 @@ The version control module has two distinct training sessions: one for beginners
 
 #### Introduction to Git and GitHub
 
-**Wednesday 5th November 2025, 2pm to 5pm, LFA/015, hands-on in-person - sign up form coming soon**<br>
-Repeated <span style="color: #ff0000">Wednesday 21th</span> January 2026, 2pm, hands-on
-in-person.
+**Wednesday 5th November 2025, 2pm to 5pm, in-person - [sign up form][session2form] (UoY accounts only)**<br>
+Repeated <span style="color: #ff0000">Wednesday 21th</span> January 2026, 2pm, in-person.
 
 If you’ve never heard of or used version control and Git before this is the
 course for you. We start by introducing version control and exploring how it can
@@ -59,7 +58,7 @@ experience with using version control in a research setting.
 
 ### Software lifecycle planning
 
-**Wednesday 19th November 2025, 2pm to 3pm, online - sign up form coming soon**
+**Wednesday 19th November 2025, 2pm to 3pm, online - [sign up form][session3form] (UoY accounts only)**
 
 When you start writing software it is often very useful to think about the
 development process and how you will make your software sustainable in the long
