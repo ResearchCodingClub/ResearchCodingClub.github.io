@@ -40,6 +40,8 @@ In this introductory session we will try to understand what the FAIR principles
 are and why they have emerged. We will then introduce some actions on how to
 apply them to software and present a global review of the training programme.
 
+**Course materials:** [slides][intro_slides]
+
 ### Version control
 The version control module has two distinct training sessions: one for beginners and one for more advanced users.
 
@@ -169,3 +171,5 @@ We'd love to hear your (anonymous) feedback: please fill in our [feedback form][
 [session2form]: https://forms.gle/38267pioXj8qd9ie6
 [session3form]: https://forms.gle/HPSACtgKzRU2XM6r8
 [feedbackform]: https://forms.gle/t4oJMCPi8wuzJtik7
+
+[intro_slides]: https://docs.google.com/presentation/d/1P5dHCa6yvODlx7i6l89083gR-PpTCYsTQI1QgcqGS2k
