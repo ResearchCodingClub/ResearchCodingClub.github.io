@@ -13,7 +13,7 @@ programme that will teach you a whole range of skills.
 ### Outline of the Programme
 
 - **Better Software for Better Research: Introduction to the Research Coding
-  Course**, Wednesday 22nd October 2025, 2pm to 3pm, online - [slides][intro_slides], [video][intro_video]
+  Course**, Wednesday 22nd October 2025, 2pm to 3pm, online - [slides][intro_slides], [video][intro_video] Passcode: 2u##$=Dv
 - **Version control: Introduction to Git and GitHub**, Wednesday
     5th November 2025, 2pm to 5pm - [sign up form][session2form] (UoY accounts only)
     - Repeated <span style="color: #ff0000">Wednesday 21st</span> January 2026
@@ -40,7 +40,7 @@ In this introductory session we will try to understand what the FAIR principles
 are and why they have emerged. We will then introduce some actions on how to
 apply them to software and present a global review of the training programme.
 
-**Course materials:** [slides][intro_slides], [video][intro_video]
+**Course materials:** [slides][intro_slides], [video][intro_video] Passcode: 2u##$=Dv
 
 ### Version control
 The version control module has two distinct training sessions: one for beginners and one for more advanced users.
