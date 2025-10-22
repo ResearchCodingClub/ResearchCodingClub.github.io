@@ -15,9 +15,9 @@ programme that will teach you a whole range of skills.
 - **Better Software for Better Research: Introduction to the Research Coding
   Course**, Wednesday 22nd October 2025, 2pm to 3pm, online - [sign up form][session1form] (UoY accounts only)
 - **Version control: Introduction to Git and GitHub**, Wednesday
-    5th November 2025, 2pm to 5pm - sign up form coming soon
+    5th November 2025, 2pm to 5pm - [sign up form][session2form]
     - Repeated <span style="color: #ff0000">Wednesday 21st</span> January 2026
-- **Software lifecycle planning**, Wednesday 19th November 2025, 2pm to 3pm, online - sign up form coming soon
+- **Software lifecycle planning**, Wednesday 19th November 2025, 2pm to 3pm, online - [sign up form][session3form]
 - **Software design**, <span style="color: #ff0000">Wednesday 3rd</span> December 2025
 - **Testing and Continuous Integration**, <span style="color: #ff0000">Wednesday 18th</span> February 2026
 - **Documentation**, <span style="color: #ff0000">Wednesday 4th</span> March 2026
@@ -160,6 +160,13 @@ license.</p>
 
 Some material taken from [FAIR²4RS][fair24rs] under CC-BY-SA 4.0.
 
+# Feedback
+
+We'd love to hear your (anonymous) feedback: please fill in our [feedback form][feedbackform].
+
 [fair]: https://doi.org/10.1038/sdata.2016.18
 [fair24rs]: https://rse.sheffield.ac.uk/training/fair4rs/
 [session1form]: https://forms.gle/fKVKfQXDheT9Qw468
+[session2form]: https://forms.gle/38267pioXj8qd9ie6
+[session3form]: https://forms.gle/HPSACtgKzRU2XM6r8
+[feedbackform]: https://forms.gle/t4oJMCPi8wuzJtik7
