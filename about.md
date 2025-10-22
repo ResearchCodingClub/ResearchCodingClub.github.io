@@ -20,10 +20,10 @@ supercomputers.
 
 # Code Clinic
 
-We also offer a Code Clinics where you can discuss problems / ideas / anything around
+We also offer Code Clinics where you can discuss problems / ideas / anything around
 the topic of research software. We have a bunch of experts in a wide variety of
-technical subjects and research disciplines. We are currently refactoring how we
-run this service, and will announce details shortly!
+technical subjects and research disciplines. See the [Code Clinics page](/clinics/) 
+for more information.
 
 # Contact us
 
@@ -37,6 +37,8 @@ There's a few ways you can get in contact with us:
 - We also have a [Slack channel][2] on the University of York Slack workspace,
   where you can drop in any time to get help and advice. This is currently only
   available to staff and research postgraduate students.
+
+# Calendar
 
 Finally, we have a [Google Calendar][3] that contains information about our events:
 
