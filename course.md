@@ -57,19 +57,6 @@ foundations with collaborative exercises that introduce key concepts such as
 forks, pull requests and branches and give you the chance to get some hands-on
 experience with using version control in a research setting.
 
-#### Git collaboration
-
-<span style="color: #ff0000">Wednesday 4th</span> February 2026, 2pm, hands-on in person.
-
-This course aims to help you develop a deeper understanding of how Git works to
-facilitate collaboration. It builds on the foundations laid by the Git beginners
-course. The core idea around the course is that by improving your understanding
-of working with branches and how to make your commits tidier and neater it makes
-it easier to understand pull requests and Git history which in turn makes it
-easier to collaborate and work on code with others (including your future
-self!).
-
-
 ### Software lifecycle planning
 
 **Wednesday 19th November 2025, 2pm to 3pm, online - sign up form coming soon**
