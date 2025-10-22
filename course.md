@@ -13,7 +13,7 @@ programme that will teach you a whole range of skills.
 ### Outline of the Programme
 
 - **Better Software for Better Research: Introduction to the Research Coding
-  Course**, Wednesday 22nd October 2025, 2pm to 3pm, online - [sign up form][session1form] (UoY accounts only)
+  Course**, Wednesday 22nd October 2025, 2pm to 3pm, online - [slides][intro_slides], [video][intro_video]
 - **Version control: Introduction to Git and GitHub**, Wednesday
     5th November 2025, 2pm to 5pm - [sign up form][session2form] (UoY accounts only)
     - Repeated <span style="color: #ff0000">Wednesday 21st</span> January 2026
@@ -34,13 +34,13 @@ needed. Please refer to the individual course details to know what they are.
 
 ### Better software for better research: Introduction to the Research Coding Course
 
-**Wednesday 22nd October 2025, 2pm to 3pm, online - [sign up form][session1form] (UoY accounts only)**
+**Wednesday 22nd October 2025, 2pm to 3pm, online**
 
 In this introductory session we will try to understand what the FAIR principles
 are and why they have emerged. We will then introduce some actions on how to
 apply them to software and present a global review of the training programme.
 
-**Course materials:** [slides][intro_slides]
+**Course materials:** [slides][intro_slides], [video][intro_video]
 
 ### Version control
 The version control module has two distinct training sessions: one for beginners and one for more advanced users.
@@ -65,7 +65,7 @@ experience with using version control in a research setting.
 When you start writing software it is often very useful to think about the
 development process and how you will make your software sustainable in the long
 term. In this module we will introduce important aspects of software development
-in research: software lifecyle, management plan, licences and
+in research: software lifecycle, management plan, licences and
 dissemination. This module should allow you to ask yourself the right questions
 when starting a research software project.
 
@@ -173,3 +173,4 @@ We'd love to hear your (anonymous) feedback: please fill in our [feedback form][
 [feedbackform]: https://forms.gle/t4oJMCPi8wuzJtik7
 
 [intro_slides]: https://docs.google.com/presentation/d/1P5dHCa6yvODlx7i6l89083gR-PpTCYsTQI1QgcqGS2k
+[intro_video]: https://york-ac-uk.zoom.us/rec/share/RNQpldj13NL53AoEl0F0Y2OyVHImt0m_hmLHVZVSXOqq4XwNUd9mc8eWLWkbLHnz.HQpZ8VwJWr11mr17
