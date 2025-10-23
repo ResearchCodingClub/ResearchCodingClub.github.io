@@ -26,4 +26,4 @@ to attend.
 Clinics will generally be in-person but you can select online on the form if you can't
 attend in-person.
 
-[bookingform]: https://script.google.com/a/macros/york.ac.uk/s/AKfycbyg0F5nfPi19CjisZIEBYvx_HSTTC1o4_2Kk4BjlFt9IoCTWchl8xnt7aTeT95wvJ8u/exec
+[bookingform]: https://script.google.com/a/macros/york.ac.uk/s/AKfycbyh6m5p2GhoMzs30rjhtX_0eKWBXxMp617cY89PGoi8hCBh9PziF1obSf2fYQVunjeY/exec
