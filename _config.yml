@@ -256,5 +256,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+clinic_form: "https://script.google.com/a/macros/york.ac.uk/s/AKfycbyh6m5p2GhoMzs30rjhtX_0eKWBXxMp617cY89PGoi8hCBh9PziF1obSf2fYQVunjeY/exec"
+
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
