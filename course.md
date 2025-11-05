@@ -42,10 +42,7 @@ apply them to software and present a global review of the training programme.
 
 **Course materials:** [slides][intro_slides], [video][intro_video] Passcode: 2u##$=Dv
 
-### Version control
-The version control module has two distinct training sessions: one for beginners and one for more advanced users.
-
-#### Introduction to Git and GitHub
+### Version Control: Introduction to Git and GitHub
 
 **Wednesday 5th November 2025, 2pm to 5pm, in-person - [sign up form][session2form] (UoY accounts only)**<br>
 Repeated <span style="color: #ff0000">Wednesday 21th</span> January 2026, 2pm, in-person.
@@ -57,6 +54,8 @@ started with some basic workflow using these tools. We build on those
 foundations with collaborative exercises that introduce key concepts such as
 forks, pull requests and branches and give you the chance to get some hands-on
 experience with using version control in a research setting.
+
+**Course materials:** [slides][git_slides]
 
 ### Software lifecycle planning
 
@@ -174,3 +173,5 @@ We'd love to hear your (anonymous) feedback: please fill in our [feedback form][
 
 [intro_slides]: https://docs.google.com/presentation/d/1P5dHCa6yvODlx7i6l89083gR-PpTCYsTQI1QgcqGS2k
 [intro_video]: https://york-ac-uk.zoom.us/rec/share/RNQpldj13NL53AoEl0F0Y2OyVHImt0m_hmLHVZVSXOqq4XwNUd9mc8eWLWkbLHnz.HQpZ8VwJWr11mr17
+
+[git_slides]: https://docs.google.com/presentation/d/1ifKyvCnR-ZcJokvKrrfUbf9n7lmIrP8XKRz9Uqyu538
