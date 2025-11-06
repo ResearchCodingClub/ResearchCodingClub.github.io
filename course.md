@@ -15,7 +15,7 @@ programme that will teach you a whole range of skills.
 - **Better Software for Better Research: Introduction to the Research Coding
   Course**, Wednesday 22nd October 2025, 2pm to 3pm, online - [slides][intro_slides], [video][intro_video] Passcode: 2u##$=Dv
 - **Version control: Introduction to Git and GitHub**, Wednesday
-    5th November 2025, 2pm to 5pm - [sign up form][session2form] (UoY accounts only)
+    5th November 2025, 2pm to 5pm - [slides][git_slides]
     - Repeated <span style="color: #ff0000">Wednesday 21st</span> January 2026
 - **Software lifecycle planning**, Wednesday 19th November 2025, 2pm to 3pm, online - [sign up form][session3form] (UoY accounts only)
 - **Software design**, <span style="color: #ff0000">Wednesday 3rd</span> December 2025
@@ -44,8 +44,8 @@ apply them to software and present a global review of the training programme.
 
 ### Version Control: Introduction to Git and GitHub
 
-**Wednesday 5th November 2025, 2pm to 5pm, in-person - [sign up form][session2form] (UoY accounts only)**<br>
-Repeated <span style="color: #ff0000">Wednesday 21th</span> January 2026, 2pm, in-person.
+**Wednesday 5th November 2025, 2pm to 5pm, in-person**<br>
+Repeated <span style="color: #ff0000">Wednesday 21st</span> January 2026, 2pm, in-person.
 
 If you’ve never heard of or used version control and Git before this is the
 course for you. We start by introducing version control and exploring how it can
