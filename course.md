@@ -12,18 +12,17 @@ programme that will teach you a whole range of skills.
 
 ### Outline of the Programme
 
-- **Better Software for Better Research: Introduction to the Research Coding
-  Course**, Wednesday 22nd October 2025, 2pm to 3pm, online - [slides][intro_slides], [video][intro_video] Passcode: 2u##$=Dv
-- **Version control: Introduction to Git and GitHub**, Wednesday
+- **[Better Software for Better Research: Introduction to the Research Coding Course](#better-software-for-better-research-introduction-to-the-research-coding-course)**, Wednesday 22nd October 2025, 2pm to 3pm, online - [slides][intro_slides], [video][intro_video] Passcode: 2u##$=Dv
+- **[Version control: Introduction to Git and GitHub](#version-control-introduction-to-git-and-github)**, Wednesday
     5th November 2025, 2pm to 5pm - [slides][git_slides]
     - Repeated <span style="color: #ff0000">Wednesday 21st</span> January 2026
-- **Software lifecycle planning**, Wednesday 19th November 2025, 2pm to 3pm, online - [sign up form][session3form] (UoY accounts only)
-- **Software design**, <span style="color: #ff0000">Wednesday 3rd</span> December 2025
-- **Testing and Continuous Integration**, <span style="color: #ff0000">Wednesday 18th</span> February 2026
-- **Documentation**, <span style="color: #ff0000">Wednesday 4th</span> March 2026
-- **Reproducible computational environments**, <span style="color: #ff0000">Wednesday 18th</span> March 2026
-- **Packaging**, <span style="color: #ff0000">Wednesday 1st</span> April 2026
-- **Publishing a software paper in JOSS**, <span style="color: #ff0000">Wednesday 15th</span> April 2026
+- **[Software lifecycle planning](#software-lifecycle-planning)**, Wednesday 19th November 2025, 2pm to 3pm, online - [sign up form][session3form] (UoY accounts only)
+- **[Software design](#software-design)**, <span style="color: #ff0000">Wednesday 3rd</span> December 2025
+- **[Testing and Continuous Integration](#testing-and-continuous-integration)**, <span style="color: #ff0000">Wednesday 18th</span> February 2026
+- **[Documentation](#documentation)**, <span style="color: #ff0000">Wednesday 4th</span> March 2026
+- **[Reproducible computational environments](#reproducible-computational-environments)**, <span style="color: #ff0000">Wednesday 18th</span> March 2026
+- **[Packaging](#packaging)**, <span style="color: #ff0000">Wednesday 1st</span> April 2026
+- **[Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss)**, <span style="color: #ff0000">Wednesday 15th</span> April 2026
 
 (Dates after November are provisional and to be confirmed)
 
