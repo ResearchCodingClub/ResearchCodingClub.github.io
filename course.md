@@ -16,7 +16,7 @@ programme that will teach you a whole range of skills.
 - **[Version control: Introduction to Git and GitHub](#version-control-introduction-to-git-and-github)**, Wednesday
     5th November 2025, 2pm to 5pm - [slides][git_slides]
     - Repeated <span style="color: #ff0000">Wednesday 21st</span> January 2026
-- **[Software lifecycle planning](#software-lifecycle-planning)**, Wednesday 19th November 2025, 2pm to 3pm, online - [sign up form][session3form] (UoY accounts only)
+- **[Software lifecycle planning](#software-lifecycle-planning)**, Wednesday 19th November 2025, 2pm to 3pm, online - [sign up form][session3form] (UoY accounts only), [slides][lifecycle_slides]
 - **[Software design](#software-design)**, <span style="color: #ff0000">Wednesday 3rd</span> December 2025
 - **[Testing and Continuous Integration](#testing-and-continuous-integration)**, <span style="color: #ff0000">Wednesday 18th</span> February 2026
 - **[Documentation](#documentation)**, <span style="color: #ff0000">Wednesday 4th</span> March 2026
@@ -66,6 +66,8 @@ term. In this module we will introduce important aspects of software development
 in research: software lifecycle, management plan, licences and
 dissemination. This module should allow you to ask yourself the right questions
 when starting a research software project.
+
+**Course materials:** [slides][lifecycle_slides]
 
 ### Software design
 <span style="color: #ff0000">Wednesday 3rd</span> December 2025, in person.
@@ -174,3 +176,5 @@ We'd love to hear your (anonymous) feedback: please fill in our [feedback form][
 [intro_video]: https://york-ac-uk.zoom.us/rec/share/RNQpldj13NL53AoEl0F0Y2OyVHImt0m_hmLHVZVSXOqq4XwNUd9mc8eWLWkbLHnz.HQpZ8VwJWr11mr17
 
 [git_slides]: https://docs.google.com/presentation/d/1ifKyvCnR-ZcJokvKrrfUbf9n7lmIrP8XKRz9Uqyu538
+
+[lifecycle_slides]: https://docs.google.com/presentation/d/1pAwfg1H5Ny957NRrUlNhCRizVs4AkuBooYWcL7zu6i0
