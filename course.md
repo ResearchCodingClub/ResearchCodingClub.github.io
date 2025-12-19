@@ -15,9 +15,9 @@ programme that will teach you a whole range of skills.
 - **[Better Software for Better Research: Introduction to the Research Coding Course](#better-software-for-better-research-introduction-to-the-research-coding-course)**, Wednesday 22nd October 2025, 2pm to 3pm, online - [slides][intro_slides], [video][intro_video] Passcode: 2u##$=Dv
 - **[Version control: Introduction to Git and GitHub](#version-control-introduction-to-git-and-github)**, Wednesday
     5th November 2025, 2pm to 5pm - [slides][git_slides]
-    - Repeated <span style="color: #ff0000">Wednesday 21st</span> January 2026
+    - Repeated <span style="color: #ff0000">Wednesday 21st</span> January 2026, 2pm to 5pm - [sign up form][session4form] (UoY accounts only)
 - **[Software lifecycle planning](#software-lifecycle-planning)**, Wednesday 19th November 2025, 2pm to 3pm, online - [slides][lifecycle_slides], [video][lifecycle_video] Passcode: aPD37!B. (includes full stop)
-- **[Software design](#software-design)**, <span style="color: #ff0000">Wednesday 7th</span> January 2026 (date TBC)
+- **[Software design](#software-design)**, <span style="color: #ff0000">Date TBC</span>
 - **[Testing and Continuous Integration](#testing-and-continuous-integration)**, <span style="color: #ff0000">Wednesday 18th</span> February 2026
 - **[Documentation](#documentation)**, <span style="color: #ff0000">Wednesday 4th</span> March 2026
 - **[Reproducible computational environments](#reproducible-computational-environments)**, <span style="color: #ff0000">Wednesday 18th</span> March 2026
@@ -44,7 +44,7 @@ apply them to software and present a global review of the training programme.
 ### Version Control: Introduction to Git and GitHub
 
 **Wednesday 5th November 2025, 2pm to 5pm, in-person**<br>
-Repeated <span style="color: #ff0000">Wednesday 21st</span> January 2026, 2pm, in-person.
+**Repeated <span style="color: #ff0000">Wednesday 21st</span> January 2026, 2pm to 5pm, in-person. [sign up form][session4form] (UoY accounts only)**
 
 If you’ve never heard of or used version control and Git before this is the
 course for you. We start by introducing version control and exploring how it can
@@ -70,7 +70,7 @@ when starting a research software project.
 **Course materials:** [slides][lifecycle_slides], [video][lifecycle_video] Passcode: aPD37!B. (includes full stop)
 
 ### Software design
-<span style="color: #ff0000">Wednesday 7th</span> January 2026 (date TBC), in person.
+<span style="color: #ff0000">Date TBC</span>, in person.
 
 The way you write your code will have a massive impact on how easy it is to
 maintain. During this course we will learn how to create maintainable, readable
@@ -171,6 +171,7 @@ We'd love to hear your (anonymous) feedback: please fill in our [feedback form][
 [session2form]: https://forms.gle/38267pioXj8qd9ie6
 [session3form]: https://forms.gle/HPSACtgKzRU2XM6r8
 [feedbackform]: https://forms.gle/t4oJMCPi8wuzJtik7
+[session4form]: https://forms.gle/fC2XVFSxfcb2KsyQ9
 
 [intro_slides]: https://docs.google.com/presentation/d/1P5dHCa6yvODlx7i6l89083gR-PpTCYsTQI1QgcqGS2k
 [intro_video]: https://york-ac-uk.zoom.us/rec/share/RNQpldj13NL53AoEl0F0Y2OyVHImt0m_hmLHVZVSXOqq4XwNUd9mc8eWLWkbLHnz.HQpZ8VwJWr11mr17
