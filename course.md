@@ -185,4 +185,4 @@ We'd love to hear your (anonymous) feedback: please fill in our [feedback form][
 [lifecycle_video]: https://york-ac-uk.zoom.us/rec/share/TEg2AYluX9azyfP7N7hHQyR8OpMJStxWS8Unpv8syIcK43wujSI0212PupSoVN0x.uMEyU-9ZBsIXKEEc
 
 [testing_lesson]: https://researchcodingclub.github.io/python-testing-for-research
-[testing_files]: https://github.com/ResearchCodingClub/python-testing-for-research/tree/main/learners/files]
+[testing_files]: https://github.com/ResearchCodingClub/python-testing-for-research/tree/main/learners/files
