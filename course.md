@@ -90,6 +90,8 @@ into your development workflow using continuous integration (CI). CI streamlines
 your process by automatically running tests with every code change, catching
 bugs early and saving you time.
 
+**Course materials:** [lesson][testing_lesson], [files][testing_files]
+
 ### Documentation
 <span style="color: #ff0000">Wednesday 4th</span> March 2026, in person.
 
@@ -181,3 +183,6 @@ We'd love to hear your (anonymous) feedback: please fill in our [feedback form][
 
 [lifecycle_slides]: https://docs.google.com/presentation/d/1pAwfg1H5Ny957NRrUlNhCRizVs4AkuBooYWcL7zu6i0
 [lifecycle_video]: https://york-ac-uk.zoom.us/rec/share/TEg2AYluX9azyfP7N7hHQyR8OpMJStxWS8Unpv8syIcK43wujSI0212PupSoVN0x.uMEyU-9ZBsIXKEEc
+
+[testing_lesson]: https://researchcodingclub.github.io/python-testing-for-research
+[testing_files]: https://github.com/ResearchCodingClub/python-testing-for-research/tree/main/learners/files]
