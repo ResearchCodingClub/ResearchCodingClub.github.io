@@ -20,9 +20,9 @@ programme that will teach you a whole range of skills.
 - **[Software design](#software-design)**, <span style="color: #ff0000">Date TBC</span>
 - **[Testing and Continuous Integration](#testing-and-continuous-integration)**, Wednesday 18th February 2026 - [content][testing_lesson], [files][testing_files]
 - **[Documentation](#documentation)**, <span style="color: #ff0000">Date TBC</span>
-- **[Reproducible computational environments](#reproducible-computational-environments)**, <span style="color: #ff0000">Wednesday 18th</span> March 2026 - [sign up form][session6form] (UoY accounts only)
+- **[Reproducible computational environments](#reproducible-computational-environments)**, <span style="color: #ff0000">Wednesday 18th</span> March 2026, 1pm to 3pm, hybrid - [sign up form][session6form] (UoY accounts only)
 - **[Packaging](#packaging)**, <span style="color: #ff0000">Date TBC</span>
-- **[Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss)**, <span style="color: #ff0000">Wednesday 15th</span> April 2026
+- **[Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss)**, <span style="color: #ff0000">Wednesday 15th</span> April 2026, 1pm to 2pm, hybrid - [Eventbrite sign up form][session7form] (open to students and staff at all N8 universities)
 
 ### Target Audience and Prerequisites
 We welcome everyone working with research software, from undergraduates to professors, from beginners to experts, and from people who create analysis scripts on their laptops to those who run first principles modelling on supercomputers. Each session will have some individual prerequisites. Some experience with
@@ -100,7 +100,7 @@ accessible and understandable to others. It covers topics such as writing
 readable code and usage instructions.
 
 ### Reproducible computational environments
-**<span style="color: #ff0000">Wednesday 18th</span> March 2026, hybrid - follow-along. [Sign up form][session6form] (UoY accounts only)**
+**<span style="color: #ff0000">Wednesday 18th</span> March 2026, 1pm to 3pm, hybrid - follow-along. [Sign up form][session6form] (UoY accounts only)**
 
 Ensuring that others are able to take your code, run it, and are able to produce
 the same (or equivalent) results is one of the key tenets of FAIR and
@@ -120,7 +120,7 @@ exist to package Python and R projects and take you through each step of the
 packaging process.
 
 ### Publishing a software paper in JOSS
-<span style="color: #ff0000">Wednesday 16th</span> April 2026, hybrid - Date confirm, sign-up link to follow soon!
+**<span style="color: #ff0000">Wednesday 15th</span> April 2026, 1pm to 2pm, hybrid. [Eventbrite sign up form][session7form] (open to students and staff at all N8 universities)**
 
 Did you know that you can actually publish a paper about your software? This is
 an ideal way to get recognition (and citation) for the software you have spent
@@ -176,6 +176,7 @@ We'd love to hear your (anonymous) feedback: please fill in our [feedback form][
 [session4form]: https://forms.gle/fC2XVFSxfcb2KsyQ9
 [session5form]: https://forms.gle/8tbkbNXyhwasnhGg7
 [session6form]: https://forms.gle/3ohpUuCEasVLcPB77
+[session7form]: https://www.eventbrite.co.uk/e/university-of-york-research-coding-club-publishing-your-software-in-joss-tickets-1984310025703
 
 [intro_slides]: https://docs.google.com/presentation/d/1P5dHCa6yvODlx7i6l89083gR-PpTCYsTQI1QgcqGS2k
 [intro_video]: https://york-ac-uk.zoom.us/rec/share/RNQpldj13NL53AoEl0F0Y2OyVHImt0m_hmLHVZVSXOqq4XwNUd9mc8eWLWkbLHnz.HQpZ8VwJWr11mr17
