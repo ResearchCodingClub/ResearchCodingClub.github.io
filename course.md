@@ -20,7 +20,7 @@ programme that will teach you a whole range of skills.
 - **[Software design](#software-design)**, <span style="color: #ff0000">Date TBC</span>
 - **[Testing and Continuous Integration](#testing-and-continuous-integration)**, Wednesday 18th February 2026 - [content][testing_lesson], [files][testing_files]
 - **[Documentation](#documentation)**, <span style="color: #ff0000">Date TBC</span>
-- **[Reproducible computational environments](#reproducible-computational-environments)**, <span style="color: #ff0000">Wednesday 18th</span> March 2026, 1pm to 3pm, hybrid - [sign up form][session6form] (UoY accounts only)
+- **[Reproducible computational environments](#reproducible-computational-environments)**, <span style="color: #ff0000">Wednesday 18th</span> March 2026, 1pm to 3pm, hybrid - [sign up form][session6form] (UoY accounts only) - [slides][rep_env_slides]
 - **[Packaging](#packaging)**, <span style="color: #ff0000">Date TBC</span>
 - **[Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss)**, <span style="color: #ff0000">Wednesday 15th</span> April 2026, 1pm to 2pm, hybrid - [Eventbrite sign up form][session7form] (open to students and staff at all N8 universities)
 
@@ -110,6 +110,8 @@ environments as a specific tool for computational reproducibility. This session
 will be hybrid and 'follow-along', and cover Python and R, as well as more
 language agnostic solutions.
 
+**Course materials:** [slides][rep_env_slides]
+
 ### Packaging
 <span style="color: #ff0000">Date TBC</span>, in person.
 
@@ -188,3 +190,5 @@ We'd love to hear your (anonymous) feedback: please fill in our [feedback form][
 
 [testing_lesson]: https://researchcodingclub.github.io/python-testing-for-research
 [testing_files]: https://github.com/ResearchCodingClub/python-testing-for-research/tree/main/learners/files
+
+[rep_env_slides]: https://docs.google.com/presentation/d/144TqQoYIj1OgbIpQ4JDZmLnx4FtMsg3WL7cvf6N914A/edit?usp=sharing
