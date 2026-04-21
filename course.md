@@ -19,10 +19,10 @@ programme that will teach you a whole range of skills.
 - **[Software lifecycle planning](#software-lifecycle-planning)**, Wednesday 19th November 2025, 2pm to 3pm, online - [slides][lifecycle_slides], [video][lifecycle_video] Passcode: aPD37!B. (includes full stop)
 - **[Software design](#software-design)**, <span style="color: #ff0000">Date TBC</span>
 - **[Testing and Continuous Integration](#testing-and-continuous-integration)**, Wednesday 18th February 2026 - [content][testing_lesson], [files][testing_files]
-- **[Documentation](#documentation)**, <span style="color: #ff0000">Wednesday 22nd April 2026, 1pm to 4pm</span>, in-person - [sign up form][session8form] (UoY accounts only)
+- **[Documentation](#documentation)**, <span style="color: #ff0000">Wednesday 22nd April 2026, 1pm to 4pm</span>, in-person - [sign up form][session8form] (UoY accounts only) - [lesson][docs_lesson]
 - **[Reproducible computational environments](#reproducible-computational-environments)**, Wednesday 18th March 2026, 1pm to 3pm, hybrid - [slides][rep_env_slides], [video][rep_env_video] Passcode: =5CSQ.@N
 - **[Packaging](#packaging)**, <span style="color: #ff0000">Wednesday 6th May 2026, 1pm to 3pm</span>, in-person - [sign up form][session9form] (UoY accounts only)
-- **[Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss)**, <span style="color: #ff0000">Wednesday 15th April 2026, 1pm to 2pm</span>, hybrid - [Eventbrite sign up form][session7form] (open to students and staff at all N8 universities)
+- **[Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss)**, Wednesday 15th April 2026, 1pm to 2pm, hybrid - materials coming soon
 
 ### Target Audience and Prerequisites
 We welcome everyone working with research software, from undergraduates to professors, from beginners to experts, and from people who create analysis scripts on their laptops to those who run first principles modelling on supercomputers. Each session will have some individual prerequisites. Some experience with
@@ -99,6 +99,8 @@ teaches researchers how to document their software effectively, making it
 accessible and understandable to others. It covers topics such as writing
 readable code and usage instructions.
 
+**Course materials:** [lesson][docs_lesson]
+
 ### Reproducible computational environments
 **Wednesday 18th March 2026, 1pm to 3pm, hybrid - follow-along.**
 
@@ -122,7 +124,7 @@ exist to package Python and R projects and take you through each step of the
 packaging process.
 
 ### Publishing a software paper in JOSS
-**<span style="color: #ff0000">Wednesday 15th April 2026, 1pm to 2pm</span>, hybrid. [Eventbrite sign up form][session7form] (open to students and staff at all N8 universities)**
+**Wednesday 15th April 2026, 1pm to 2pm, hybrid.**
 
 Did you know that you can actually publish a paper about your software? This is
 an ideal way to get recognition (and citation) for the software you have spent
@@ -131,6 +133,8 @@ submission in the Journal of Open Source Software. We will make an example
 software submission to the journal, and thanks to the collaboration of the
 Editor in Chief of JOSS (Arfon Smith), we will look at how the review process is
 done.
+
+**Materials coming soon**
 
 ## Learning outcomes
 After completing this modular programme, participants should be able to:
@@ -195,3 +199,5 @@ We'd love to hear your (anonymous) feedback: please fill in our [feedback form][
 
 [rep_env_slides]: https://docs.google.com/presentation/d/144TqQoYIj1OgbIpQ4JDZmLnx4FtMsg3WL7cvf6N914A/edit?usp=sharing
 [rep_env_video]: https://york-ac-uk.zoom.us/rec/share/tbZdpdrLcr1JXg-bYcLTB7EHXe8gurgkw1VDL0mAOnCSez61DLKJhMlWYro73H5V.0QibsuCK4VIvDNVZ
+
+[docs_lesson]: https://researchcodingclub.github.io/documentation/
