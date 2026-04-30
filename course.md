@@ -19,10 +19,10 @@ programme that will teach you a whole range of skills.
 - **[Software lifecycle planning](#software-lifecycle-planning)**, Wednesday 19th November 2025, 2pm to 3pm, online - [slides][lifecycle_slides], [video][lifecycle_video] Passcode: aPD37!B. (includes full stop)
 - **[Software design](#software-design)**, <span style="color: #ff0000">Date TBC</span>
 - **[Testing and Continuous Integration](#testing-and-continuous-integration)**, Wednesday 18th February 2026 - [content][testing_lesson], [files][testing_files]
-- **[Documentation](#documentation)**, <span style="color: #ff0000">Wednesday 22nd April 2026, 1pm to 4pm</span>, in-person - [sign up form][session8form] (UoY accounts only) - [lesson][docs_lesson]
+- **[Documentation](#documentation)**, Wednesday 22nd April 2026, 1pm to 4pm, in-person - [lesson materials][docs_lesson]
 - **[Reproducible computational environments](#reproducible-computational-environments)**, Wednesday 18th March 2026, 1pm to 3pm, hybrid - [slides][rep_env_slides], [video][rep_env_video] Passcode: =5CSQ.@N
-- **[Packaging](#packaging)**, <span style="color: #ff0000">Wednesday 6th May 2026, 1pm to 3pm</span>, in-person - [sign up form][session9form] (UoY accounts only)
-- **[Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss)**, Wednesday 15th April 2026, 1pm to 2pm, hybrid - materials coming soon
+- **[Packaging](#packaging)**, <span style="color: #ff0000">Wednesday 6th May 2026, 1pm to 4pm</span>, in-person - [sign up form][session9form] (UoY accounts only)
+- **[Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss)**, Wednesday 15th April 2026, 1pm to 2pm, hybrid - [slides][joss_slides], [video][joss_video] Passcode: T0iAmU=z
 
 ### Target Audience and Prerequisites
 We welcome everyone working with research software, from undergraduates to professors, from beginners to experts, and from people who create analysis scripts on their laptops to those who run first principles modelling on supercomputers. Each session will have some individual prerequisites. Some experience with
@@ -91,7 +91,7 @@ bugs early and saving you time.
 **Course materials:** [lesson][testing_lesson], [files][testing_files]
 
 ### Documentation
-**<span style="color: #ff0000">Wednesday 22nd April 2026, 1pm to 4pm</span>, in person. [sign up form][session8form] (UoY accounts only)**
+**Wednesday 22nd April 2026, 1pm to 4pm, in person.**
 
 Well-documented software promotes reproducibility, maintainability, and
 increased research impact through wider adoption and citation. This course
@@ -115,13 +115,13 @@ language agnostic solutions.
 **Course materials:** [slides][rep_env_slides], [video][rep_env_video] Passcode: =5CSQ.@N
 
 ### Packaging
-**<span style="color: #ff0000">Wednesday 6th May 2026, 1pm to 3pm</span>, in person. [sign up form][session9form] (UoY accounts only)**
+**<span style="color: #ff0000">Wednesday 6th May 2026, 1pm to 4pm</span>, in person. [sign up form][session9form] (UoY accounts only)**
 
-Packaging your software is one of the important steps in a software project to
-make it both findable and accessible. This course will provide you with an
-understanding of why and when packaging is useful, what different standards
-exist to package Python and R projects and take you through each step of the
-packaging process.
+Packaging your software is one of the important steps in a software project to make it both findable and accessible. This session will provide you with an understanding of why and when packaging is useful, what different standards exist to package Python and R projects and take you through each step of the packaging process through follow-along demonstrations for both Python and R (delivered by Emma Rand). 
+
+**Prerequisites:** There are a number of prerequisites if you'd like to follow-along. R users should ensure they have a GitHub account, git, R, and RStudio installed, and Windows users in particular will need to install the package development toolchain as detailed in [Emma's talk repository](https://github.com/3mmaRand/make-an-r-pkg/blob/main/prerequisite-guides/install-pkg-dev-tools.md).
+
+Python users will want to register for an account on [TestPyPi](https://test.pypi.org/) and install [uv](https://docs.astral.sh/uv/getting-started/installation/).
 
 ### Publishing a software paper in JOSS
 **Wednesday 15th April 2026, 1pm to 2pm, hybrid.**
@@ -134,7 +134,7 @@ software submission to the journal, and thanks to the collaboration of the
 Editor in Chief of JOSS (Arfon Smith), we will look at how the review process is
 done.
 
-**Materials coming soon**
+**Course materials:** [slides][joss_slides], [video][joss_video] Passcode: T0iAmU=z
 
 ## Learning outcomes
 After completing this modular programme, participants should be able to:
@@ -201,3 +201,6 @@ We'd love to hear your (anonymous) feedback: please fill in our [feedback form][
 [rep_env_video]: https://york-ac-uk.zoom.us/rec/share/tbZdpdrLcr1JXg-bYcLTB7EHXe8gurgkw1VDL0mAOnCSez61DLKJhMlWYro73H5V.0QibsuCK4VIvDNVZ
 
 [docs_lesson]: https://researchcodingclub.github.io/documentation/
+
+[joss_slides]: https://researchcodingclub.github.io/slides/2026-04-15-publishing-in-joss.pdf
+[joss_video]: https://york-ac-uk.zoom.us/rec/share/KQsK3YR4RGTitZrsuGJMXhCIqzd1GeGcjsmMtXOFtEO7nkEcRXBFVEcX7WkDjeia.Bzf74IFgSmsw_W2I
