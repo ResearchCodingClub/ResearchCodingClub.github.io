@@ -208,4 +208,4 @@ We'd love to hear your (anonymous) feedback: please fill in our [feedback form][
 [joss_video]: https://york-ac-uk.zoom.us/rec/share/KQsK3YR4RGTitZrsuGJMXhCIqzd1GeGcjsmMtXOFtEO7nkEcRXBFVEcX7WkDjeia.Bzf74IFgSmsw_W2I
 
 [packaging_slides]: /slides/2026-05-06-packaging.pdf
-[R_packaging]: bit.ly/3mma-pkg
+[R_packaging]: https://3mmarand.github.io/make-an-r-pkg/minimal-package.html
