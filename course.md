@@ -21,7 +21,7 @@ programme that will teach you a whole range of skills.
 - **[Testing and Continuous Integration](#testing-and-continuous-integration)**, Wednesday 18th February 2026 - [content][testing_lesson], [files][testing_files]
 - **[Documentation](#documentation)**, Wednesday 22nd April 2026, 1pm to 4pm, in-person - [lesson materials][docs_lesson]
 - **[Reproducible computational environments](#reproducible-computational-environments)**, Wednesday 18th March 2026, 1pm to 3pm, hybrid - [slides][rep_env_slides], [video][rep_env_video] Passcode: =5CSQ.@N
-- **[Packaging](#packaging)**, <span style="color: #ff0000">Wednesday 6th May 2026, 1pm to 4pm</span>, in-person - [sign up form][session9form] (UoY accounts only)
+- **[Packaging](#packaging)**, Wednesday 6th May 2026, 1pm to 4pm, in-person - [Python slides][packaging_slides], [R slides][R_packaging]
 - **[Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss)**, Wednesday 15th April 2026, 1pm to 2pm, hybrid - [slides][joss_slides], [video][joss_video] Passcode: T0iAmU=z
 
 ### Target Audience and Prerequisites
@@ -115,11 +115,11 @@ language agnostic solutions.
 **Course materials:** [slides][rep_env_slides], [video][rep_env_video] Passcode: =5CSQ.@N
 
 ### Packaging
-**<span style="color: #ff0000">Wednesday 6th May 2026, 1pm to 4pm</span>, in person. [sign up form][session9form] (UoY accounts only)**
+**Wednesday 6th May 2026, 1pm to 4pm, in person.**
 
 Packaging your software is one of the important steps in a software project to make it both findable and accessible. This session will provide you with an understanding of why and when packaging is useful, what different standards exist to package Python and R projects and take you through each step of the packaging process through follow-along demonstrations for both Python and R (delivered by Emma Rand). 
 
-**Prerequisites:** There are a number of prerequisites if you'd like to follow-along. R users should ensure they have a GitHub account, git, R, and RStudio installed, and Windows users in particular will need to install the package development toolchain as detailed in [Emma's talk repository](https://github.com/3mmaRand/make-an-r-pkg/blob/main/prerequisite-guides/install-pkg-dev-tools.md).
+**Prerequisites:** There are a number of prerequisites if you'd like to follow-along. R users should ensure they have R, and RStudio installed, and Windows users in particular will need to install the package development toolchain as detailed in [Emma's talk repository](https://github.com/3mmaRand/make-an-r-pkg/blob/main/prerequisite-guides/install-pkg-dev-tools.md).
 
 Python users will want to register for an account on [TestPyPi](https://test.pypi.org/) and install [uv](https://docs.astral.sh/uv/getting-started/installation/).
 
