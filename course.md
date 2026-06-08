@@ -21,7 +21,7 @@ programme that will teach you a whole range of skills.
 - **[Testing and Continuous Integration](#testing-and-continuous-integration)**, Wednesday 18th February 2026 - [content][testing_lesson], [files][testing_files]
 - **[Documentation](#documentation)**, Wednesday 22nd April 2026, 1pm to 4pm, in-person - [lesson materials][docs_lesson]
 - **[Reproducible computational environments](#reproducible-computational-environments)**, Wednesday 18th March 2026, 1pm to 3pm, hybrid - [slides][rep_env_slides], [video][rep_env_video] Passcode: =5CSQ.@N
-- **[Packaging](#packaging)**, Wednesday 6th May 2026, 1pm to 4pm, in-person - [Python slides][packaging_slides], [R slides][R_packaging]
+- **[Packaging](#packaging)**, Wednesday 6th May 2026, 1pm to 4pm, in-person - [Course content](https://researchcodingclub.github.io/FAIR4RS-Packaging/), [Python slides][packaging_slides], [R slides][R_packaging]
 - **[Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss)**, Wednesday 15th April 2026, 1pm to 2pm, hybrid - [slides][joss_slides], [video][joss_video] Passcode: T0iAmU=z
 
 ### Target Audience and Prerequisites
@@ -123,7 +123,7 @@ Packaging your software is one of the important steps in a software project to m
 
 Python users will want to register for an account on [TestPyPi](https://test.pypi.org/) and install [uv](https://docs.astral.sh/uv/getting-started/installation/).
 
-**Course materials:** [Python slides][packaging_slides], [R slides][R_packaging]
+**Course materials:** [Course content](https://researchcodingclub.github.io/FAIR4RS-Packaging/), [Python slides][packaging_slides], [R slides][R_packaging]
 
 ### Publishing a software paper in JOSS
 **Wednesday 15th April 2026, 1pm to 2pm, hybrid.**
