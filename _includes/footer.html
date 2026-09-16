@@ -11,37 +11,59 @@
         </div>
       {% endif %}
       <p class="copyright text-muted">
-      <img src="/img/UOY-Logo-Stacked-shield-PMS432.svg" alt="UoY logo" width="40%" height="40%">
-      <br>
-      {% if site.author %}
+        <img src="/img/logo.svg" alt="Research Coding Club logo" width="20%" height="20%">
+        <img src="/img/UOY-Logo-Stacked-shield-PMS432.svg" alt="UoY logo" width="40%" height="40%">
+        <br>
+      </p>
+      <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" class="copyright text-muted">
+        All content (excluding logos or where explicitly stated) licensed under the
+        <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1"
+           target="_blank"
+           rel="license noopener noreferrer"
+           style="display:inline-block;"
+           class="sm-a">
+          CC BY-SA 4.0
+          <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+               src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"
+               alt="Creative Commons Logo CC">
+          <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+               src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"
+               alt="Creative Commons Logo Person">
+          <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+               src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt="Creative Commons Logo Backwards C"></a>
+        license. Some material taken from <a href="https://rse.sheffield.ac.uk/training/fair4rs/">FAIR²4RS</a> under CC-BY-SA 4.0.
+      </p>
+
+      <p class="copyright text-muted">
+        {% if site.author %}
         {{ site.author }}
         &nbsp;&bull;&nbsp;
-      {% endif %}
-      {{ site.time | date: '%Y' }}
+        {% endif %}
+        {{ site.time | date: '%Y' }}
 
-      {% if site.url-pretty %}
+        {% if site.url-pretty %}
         &nbsp;&bull;&nbsp;
         <span class="author-site">
           <a href="{% if site.url-canonical %}{{ site.url-canonical }}{% else %}{{ '/' | absolute_url }}{% endif %}">{{ site.url-pretty }}</a>
         </span>
-      {% endif %}
-
-      {% if site.matomo %}
-        {% if site.matomo.opt-out %}
-          &nbsp;&bull;&nbsp;
-          <a href="http://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank" class="text_muted">Do-not-Track</a>
         {% endif %}
-      {% endif%}
 
-      {% if site.edit_page_button and site.github.repository_url %}
+        {% if site.matomo %}
+        {% if site.matomo.opt-out %}
+        &nbsp;&bull;&nbsp;
+        <a href="http://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank" class="text_muted">Do-not-Track</a>
+        {% endif %}
+        {% endif%}
+
+        {% if site.edit_page_button and site.github.repository_url %}
         &nbsp;&bull;&nbsp;
         <a title="Edit this page on GitHub" href="{{ site.github.repository_url }}/edit/{{ site.github.source.branch }}/{{ page.path }}" class="text_muted">Edit page</a>
-       {% endif%}
+        {% endif%}
 
       </p>
       {% unless site.remove-ads %}<p class="theme-by text-muted">
-        Powered by
-        <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
+          Powered by
+          <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
       </p>{% endunless %}
       </div>
     </div>

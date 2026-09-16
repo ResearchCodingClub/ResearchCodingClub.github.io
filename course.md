@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Coding Course
-subtitle: A new training programme for developing research software
+subtitle: Skills and training for people developing research software
 ---
 
 Over the years we have developed extensive training materials and delivered
@@ -150,26 +150,6 @@ After completing this modular programme, participants should be able to:
 - Associate their research software with a unique and persistent identifier and use metadata to enhance its findability, accessibility and reusability
 - Identify repositories that provide long-term persistent storage for research software
 - Apply approaches such as packaging and containers to enhance the reusability and reproducibility of research software.
-
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"> 
-All content (excluding logos or where explicitly stated) licensed under the 
-<a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1"
-   target="_blank"
-   rel="license noopener noreferrer"
-   style="display:inline-block;"
-   class="sm-a">
-       CC BY-SA 4.0
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
-src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"
-alt="Creative Commons Logo CC">
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
-src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"
-alt="Creative Commons Logo Person">
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
-src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt="Creative Commons Logo Backwards C"></a>
-license.</p>
-
-Some material taken from [FAIR²4RS][fair24rs] under CC-BY-SA 4.0.
 
 # Feedback
 
