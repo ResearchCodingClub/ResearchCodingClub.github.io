@@ -21,10 +21,11 @@ subtitle:
       </div>
       {% endif %}
       <div class="post-entry">
-        {{ post.excerpt  | truncatewords: site.excerpt_length }}
+        {% assign excerpt_length = site.excerpt_length | default: 50 %}
+        {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
-        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+        {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
+          <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
         {% endif %}
       </div>
     </div>
@@ -34,15 +35,21 @@ subtitle:
 </div>
 
 {% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
+<ul class="pagination main-pager">
   {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+  <li class="page-item previous">
+    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">
+      <i class="fas fa-arrow-left" alt="Newer Posts"></i>
+      <span class="d-none d-sm-inline-block">Newer Posts</span>
+    </a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+  <li class="page-item next">
+    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">
+      <span class="d-none d-sm-inline-block">Older Posts</span>
+      <i class="fas fa-arrow-right" alt="Older Posts"></i>
+    </a>
   </li>
   {% endif %}
 </ul>
