@@ -10,7 +10,7 @@ some new code or anything else related to research software. In a session you
 will meet with research software engineers from across the university who will
 be able to help you. The bookable sessions will be available once a month on
 Wednesday afternoons and will last about 35 minutes. We will have six bookable 
-slots per session. See [our calendar](/about#calendar) for upcoming dates.
+slots per session. See our calendar below for upcoming dates.
 
 Code Clinic sessions are open to students and staff.
 
@@ -26,4 +26,11 @@ to attend.
 Clinics will generally be in-person but you can select online on the form if you can't
 attend in-person.
 
+# Calendar
+
+Check our [Google Calendar][calendar] for available clinic dates:
+
+{% include calendar.html %}
+
 [bookingform]: {{ site.clinic_form }}
+[calendar]: {{ site.calendar }}

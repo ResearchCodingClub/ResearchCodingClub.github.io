@@ -84,9 +84,9 @@ layout: base
 
       <h1 id="calendar">Calendar</h1>
 
-      <p>Finally, we have a <a href="https://calendar.google.com/calendar/u/0?cid=Y19ydXBjMGo0MnQzMjdkb2ZtOTIzbjFwM2Fib0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google Calendar</a> that contains information about our events:</p>
+      <p>Finally, we have a <a href="{{ site.calendar }}">Google Calendar</a> that contains information about our events:</p>
 
-      <iframe src="https://calendar.google.com/calendar/embed?src=c_rupc0j42t327dofm923n1p3abo%40group.calendar.google.com&amp;ctz=Europe%2FLondon&amp;showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=AGENDA" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+      {% include calendar.html %}
 
     </div>
   </div>
