@@ -12,13 +12,18 @@ programme that will teach you a whole range of skills.
 
 ### Outline of the Programme
 
+<span style="color: #ff0000">Dates in red are to be confirmed</span>:
+
 - **[Better Software for Better Research: Introduction to the Research Coding
   Course](#better-software-for-better-research-introduction-to-the-research-coding-course)**,
-  <span style="color: #ff0000">Wednesday ?? October 2026</span>, 2pm to 3pm, online
+  Wednesday 14th October 2026, 1pm to 2pm, online, <span style="color: #ff0000">Sign-up form coming soon!</span>
+- **[Software lifecycle planning](#software-lifecycle-planning)**,
+  <span style="color: #ff0000">Wednesday 28th October 2026</span>, 2pm to 3pm,
+  online, <span style="color: #ff0000">Sign-up form coming soon!</span>
 - **[Version control: Introduction to Git and GitHub](#version-control-introduction-to-git-and-github)**,
-  <span style="color: #ff0000">Wednesday ?? November 2026, 2pm to 5pm</span>
+  Wednesday 4th November 2026, 2pm to 5pm, in-person,
+  <span style="color: #ff0000">Sign-up form coming soon!</span>
     - Repeated <span style="color: #ff0000">Wednesday ?? January 2027, 2pm to 5pm</span>
-- **[Software lifecycle planning](#software-lifecycle-planning)**, <span style="color: #ff0000">Wednesday ?? November 2026</span>, 2pm to 3pm, online
 - **[Software design](#software-design)**, <span style="color: #ff0000">Date TBC</span>
 - **[Testing and Continuous Integration](#testing-and-continuous-integration)**, <span style="color: #ff0000">Wednesday ?? February 2027</span>
 - **[Documentation](#documentation)**, <span style="color: #ff0000">Wednesday ?? April 2027, 1pm to 4pm</span>, in-person
@@ -55,15 +60,26 @@ You can see our previous courses, sessions, and activities in our [archive](/arc
 
 ### Better software for better research: Introduction to the Research Coding Course
 
-**<span style="color: #ff0000">Wednesday ?? October 2026</span>, 2pm to 3pm, online**
+**Wednesday 14th October 2026, 1pm to 2pm, online**, <span style="color: #ff0000">Sign-up form coming soon!</span>
 
 In this introductory session we will try to understand what the FAIR principles
 are and why they have emerged. We will then introduce some actions on how to
 apply them to software and present a global review of the training programme.
 
+### Software lifecycle planning
+
+**Wednesday 28th October 2026, 2pm to 3pm, online**, <span style="color: #ff0000">Sign-up form coming soon!</span>
+
+When you start writing software it is often very useful to think about the
+development process and how you will make your software sustainable in the long
+term. In this module we will introduce important aspects of software development
+in research: software lifecycle, management plan, licences and
+dissemination. This module should allow you to ask yourself the right questions
+when starting a research software project.
+
 ### Version Control: Introduction to Git and GitHub
 
-**<span style="color: #ff0000">Wednesday ?? November 2026</span>, 2pm to 5pm**<br>
+**Wednesday 4th November 2026, 2pm to 5pm, in person**, <span style="color: #ff0000">Sign-up form coming soon!</span><br>
 **Repeated <span style="color: #ff0000">Wednesday ?? January 2027</span>, 2pm to 5pm**
 
 If you’ve never heard of or used version control and Git before this is the
@@ -73,17 +89,6 @@ started with some basic workflow using these tools. We build on those
 foundations with collaborative exercises that introduce key concepts such as
 forks, pull requests and branches and give you the chance to get some hands-on
 experience with using version control in a research setting.
-
-### Software lifecycle planning
-
-**<span style="color: #ff0000">Wednesday ?? November 2026</span>, 2pm to 3pm, online**
-
-When you start writing software it is often very useful to think about the
-development process and how you will make your software sustainable in the long
-term. In this module we will introduce important aspects of software development
-in research: software lifecycle, management plan, licences and
-dissemination. This module should allow you to ask yourself the right questions
-when starting a research software project.
 
 ### Software design
 <span style="color: #ff0000">Date TBC</span>, in person.
