@@ -58,6 +58,11 @@ the recordings available. All our slides and other material are also available.
 
 You can see our previous courses, sessions, and activities in our [archive](/archive).
 
+#### Do I need to bring my own computer to hands-on sessions?
+
+We run our all hands-on sessions in a PC room on campus, so you can use either
+Windows or Linux on the dual-boot PCs, or bring your own laptop.
+
 ### Better software for better research: Introduction to the Research Coding Course
 
 **Wednesday 14th October 2026, 1pm to 2pm, online**, <span style="color: #ff0000">Sign-up form coming soon!</span>
