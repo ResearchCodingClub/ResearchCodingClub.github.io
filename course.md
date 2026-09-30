@@ -10,26 +10,27 @@ testing your code to how CPUs work. This year, we're building on the University
 of Sheffield's excellent [FAIR²4RS][fair24rs] course to deliver a training
 programme that will teach you a whole range of skills.
 
-### Outline of the Programme
+## Outline of the Programme
+
+<!-- Maintainers: Add session info in _data/course_sessions.yml -->
 
 <span style="color: #ff0000">Dates in red are to be confirmed</span>:
 
-- **[Better Software for Better Research: Introduction to the Research Coding
-  Course](#better-software-for-better-research-introduction-to-the-research-coding-course)**,
-  Wednesday 14th October 2026, 1pm to 2pm, online, [**sign up here!**][session1form]
-- **[Software lifecycle planning](#software-lifecycle-planning)**,
-  <span style="color: #ff0000">Wednesday 28th October 2026</span>, 2pm to 3pm,
-  online, <span style="color: #ff0000">Sign-up form coming soon!</span>
-- **[Version control: Introduction to Git and GitHub](#version-control-introduction-to-git-and-github)**,
-  Wednesday 4th November 2026, 2pm to 5pm, in-person,
-  <span style="color: #ff0000">Sign-up form coming soon!</span>
-    - Repeated <span style="color: #ff0000">Wednesday ?? January 2027, 2pm to 5pm</span>
-- **[Software design](#software-design)**, <span style="color: #ff0000">Date TBC</span>
-- **[Testing and Continuous Integration](#testing-and-continuous-integration)**, <span style="color: #ff0000">Wednesday ?? February 2027</span>
-- **[Documentation](#documentation)**, <span style="color: #ff0000">Wednesday ?? April 2027, 1pm to 4pm</span>, in-person
-- **[Reproducible computational environments](#reproducible-computational-environments)**, <span style="color: #ff0000">Wednesday ?? March 2027</span>, 1pm to 3pm, hybrid
-- **[Packaging](#packaging)**, <span style="color: #ff0000">Wednesday 6th May 2027, 1pm to 4pm</span>, in-person
-- **[Publishing a software paper in JOSS](#publishing-a-software-paper-in-joss)**, <span style="color: #ff0000">Wednesday ?? April 2027</span>, 1pm to 2pm, hybrid
+{% for session in site.data.course_sessions %}
+- **[{{ session.title }}](#{{ session.title | slugify }})**,
+  {% if session.confirmed -%}*{{ session.date }}*{% else %}<span style="color: #ff0000">*{{ session.date }}*</span>{%- endif -%},
+  {% if session.sign_up_form -%}[**sign up here!**]({{ session.sign_up_form }})
+  {%- else -%}<span style="color: #ff0000">Sign-up form coming soon!</span>
+  {%- endif -%}
+{%- if session.repeat %}
+  - Repeated {% if session.repeat.confirmed -%}*{{ session.repeat.date }}*{% else %}<span style="color: #ff0000">*{{ session.repeat.date }}*</span>{%- endif -%},
+    {% if session.repeat.sign_up_form -%}[**sign up here!**]({{ session.repeat.sign_up_form }})
+    {%- else -%}<span style="color: #ff0000">Sign-up form coming soon!</span>
+    {% endif %}
+{%- endif -%}
+{% endfor -%}
+
+<br>
 
 ### Target Audience and Prerequisites
 We welcome everyone working with research software, from undergraduates to
@@ -63,107 +64,28 @@ You can see our previous courses, sessions, and activities in our [archive](/arc
 We run our all hands-on sessions in a PC room on campus, so you can use either
 Windows or Linux on the dual-boot PCs, or bring your own laptop.
 
-### Better software for better research: Introduction to the Research Coding Course
+{% for session in site.data.course_sessions %}
+### {{ session.title }}
+- {% if session.confirmed -%}**{{ session.date }}**{% else %}<span style="color: #ff0000">{{ session.date }}</span>{%- endif -%}
+  {%- if session.sign_up_form %}
+  - [**Sign up here!**]({{ session.sign_up_form }})
+  {%- else %}
+  - <span style="color: #ff0000">Sign-up form coming soon!</span>
+  {%- endif %}
+  - {% if session.online %}Online{% else %}In person{% endif %}
+{%- if session.repeat %}
+- {% if session.repeat.confirmed -%}**{{ session.repeat.date }}**{% else %}<span style="color: #ff0000">{{ session.repeat.date }}</span>{%- endif -%}
+  {%- if session.repeat.sign_up_form %}
+    - [**Sign up here!**]({{ session.repeat.sign_up_form }})
+  {%- else %}
+    - <span style="color: #ff0000">Sign-up form coming soon!</span>
+  {%- endif %}
+  - {% if session.repeat.online %}Online{% else %}In person{% endif %}
+{%- endif %}
 
-**Wednesday 14th October 2026, 1pm to 2pm, online**, [**Sign up form**][session1form]
+{{ session.synopsis }}
 
-In this introductory session we will try to understand what the FAIR principles
-are and why they have emerged. We will then introduce some actions on how to
-apply them to software and present a global review of the training programme.
-
-### Software lifecycle planning
-
-**Wednesday 28th October 2026, 2pm to 3pm, online**, <span style="color: #ff0000">Sign-up form coming soon!</span>
-
-When you start writing software it is often very useful to think about the
-development process and how you will make your software sustainable in the long
-term. In this module we will introduce important aspects of software development
-in research: software lifecycle, management plan, licences and
-dissemination. This module should allow you to ask yourself the right questions
-when starting a research software project.
-
-### Version Control: Introduction to Git and GitHub
-
-**Wednesday 4th November 2026, 2pm to 5pm, in person**, <span style="color: #ff0000">Sign-up form coming soon!</span><br>
-**Repeated <span style="color: #ff0000">Wednesday ?? January 2027</span>, 2pm to 5pm**
-
-If you’ve never heard of or used version control and Git before this is the
-course for you. We start by introducing version control and exploring how it can
-be beneficial to researchers, then we introduce some useful tools and get
-started with some basic workflow using these tools. We build on those
-foundations with collaborative exercises that introduce key concepts such as
-forks, pull requests and branches and give you the chance to get some hands-on
-experience with using version control in a research setting.
-
-### Software design
-<span style="color: #ff0000">Date TBC</span>, in person.
-
-The way you write your code will have a massive impact on how easy it is to
-maintain. During this course we will learn how to create maintainable, readable
-and reusable code. Using examples and exercises, we will see that creating high
-quality code is actually quite straightforward when you understand how to do it
-and what tools are available to make your life easier.
-
-### Testing and Continuous Integration
-**<span style="color: #ff0000">Wednesday ?? February 2027</span>, in person.**
-
-This course aims to equip researchers with the skills to write effective tests
-and ensure the quality and reliability of their research software. No prior
-testing experience is required! We’ll guide you through the fundamentals of
-software testing using Python’s Pytest framework, a powerful and
-beginner-friendly tool. You’ll also learn how to integrate automated testing
-into your development workflow using continuous integration (CI). CI streamlines
-your process by automatically running tests with every code change, catching
-bugs early and saving you time.
-
-### Documentation
-**<span style="color: #ff0000">Wednesday ?? April 2027</span>, 1pm to 4pm, in person.**
-
-Well-documented software promotes reproducibility, maintainability, and
-increased research impact through wider adoption and citation. This course
-teaches researchers how to document their software effectively, making it
-accessible and understandable to others. It covers topics such as writing
-readable code and usage instructions.
-
-### Reproducible computational environments
-**<span style="color: #ff0000">Wednesday ?? March 2027</span>, 1pm to 3pm, hybrid - follow-along.**
-
-Ensuring that others are able to take your code, run it, and are able to produce
-the same (or equivalent) results is one of the key tenets of FAIR and
-reproducible research software. This session will provide you with an overview of
-different ways to make your code reproducible and then focus on virtual
-environments as a specific tool for computational reproducibility. This session
-will be hybrid and 'follow-along', and cover Python and R, as well as more
-language agnostic solutions.
-
-### Packaging
-**<span style="color: #ff0000">Wednesday ?? 2027</span>, 1pm to 4pm, in person.**
-
-Packaging your software is one of the important steps in a software project to
-make it both findable and accessible. This session will provide you with an
-understanding of why and when packaging is useful, what different standards
-exist to package Python and R projects and take you through each step of the
-packaging process through follow-along demonstrations for both Python and R
-(delivered by Emma Rand).
-
-**Prerequisites:** There are a number of prerequisites if you'd like to
-follow-along. R users should ensure they have a GitHub account, git, R, and
-RStudio installed, and Windows users in particular will need to install the
-package development toolchain as detailed in [Emma's talk
-repository](https://github.com/3mmaRand/make-an-r-pkg/blob/main/prerequisite-guides/install-pkg-dev-tools.md).
-
-Python users will want to register for an account on [TestPyPi](https://test.pypi.org/) and install [uv](https://docs.astral.sh/uv/getting-started/installation/).
-
-### Publishing a software paper in JOSS
-**<span style="color: #ff0000">Wednesday ?? April 2027</span>, 1pm to 2pm, hybrid.**
-
-Did you know that you can actually publish a paper about your software? This is
-an ideal way to get recognition (and citation) for the software you have spent
-countless hours creating. In this course we will walk you through an example of
-submission in the Journal of Open Source Software. We will make an example
-software submission to the journal, and thanks to the collaboration of the
-Editor in Chief of JOSS (Arfon Smith), we will look at how the review process is
-done.
+{% endfor %}
 
 ## Learning outcomes
 After completing this modular programme, participants should be able to:
