@@ -16,7 +16,7 @@ programme that will teach you a whole range of skills.
 
 - **[Better Software for Better Research: Introduction to the Research Coding
   Course](#better-software-for-better-research-introduction-to-the-research-coding-course)**,
-  Wednesday 14th October 2026, 1pm to 2pm, online, <span style="color: #ff0000">Sign-up form coming soon!</span>
+  Wednesday 14th October 2026, 1pm to 2pm, online, [**sign up here!**][session1form]
 - **[Software lifecycle planning](#software-lifecycle-planning)**,
   <span style="color: #ff0000">Wednesday 28th October 2026</span>, 2pm to 3pm,
   online, <span style="color: #ff0000">Sign-up form coming soon!</span>
@@ -65,7 +65,7 @@ Windows or Linux on the dual-boot PCs, or bring your own laptop.
 
 ### Better software for better research: Introduction to the Research Coding Course
 
-**Wednesday 14th October 2026, 1pm to 2pm, online**, <span style="color: #ff0000">Sign-up form coming soon!</span>
+**Wednesday 14th October 2026, 1pm to 2pm, online**, [**Sign up form**][session1form]
 
 In this introductory session we will try to understand what the FAIR principles
 are and why they have emerged. We will then introduce some actions on how to
@@ -184,7 +184,7 @@ We'd love to hear your (anonymous) feedback: please fill in our [feedback form][
 
 [fair]: https://doi.org/10.1038/sdata.2016.18
 [fair24rs]: https://rse.sheffield.ac.uk/training/fair4rs/
-[session1form]: https://forms.gle/fKVKfQXDheT9Qw468
+[session1form]: https://forms.gle/GMYnMMGUuf58JkE48
 [session2form]: https://forms.gle/38267pioXj8qd9ie6
 [session3form]: https://forms.gle/HPSACtgKzRU2XM6r8
 [feedbackform]: https://forms.gle/t4oJMCPi8wuzJtik7
