@@ -18,7 +18,8 @@
     in research: software lifecycle, management plan, licences and
     dissemination. This module should allow you to ask yourself the right questions
     when starting a research software project.
-  confirmed: false
+  confirmed: true
+  sign_up_form: https://forms.gle/kMaXztvXCZyv171FA
 
 - title: "Version Control: Introduction to Git and GitHub"
   date: "Wednesday 4th November 2026, 2pm to 5pm"
@@ -31,7 +32,8 @@
     foundations with collaborative exercises that introduce key concepts such as
     forks, pull requests and branches and give you the chance to get some hands-on
     experience with using version control in a research setting.
-  confirmed: false
+  confirmed: true
+  sign_up_form: https://forms.gle/txAFKBGAqZr2bkj6A
   repeat:
     date: "Wednesday ?? January 2027"
     confirmed: false
