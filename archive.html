@@ -3,3 +3,19 @@ layout: home
 title: Archive
 use-site-title: true
 ---
+
+<h1>Tags</h1>
+
+{%- capture site_tags -%}
+    {%- for tag in site.tags -%}
+        {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+{%- endcapture -%}
+{%- assign tags_list = site_tags | split:',' | sort | slice: 0, 15 -%}
+
+{%- for tag in tags_list -%}
+    <a href="/tags#{{- tag -}}" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>
+{%- endfor -%}
+    <a href="/tags">See more...</a>
+
+<hr>

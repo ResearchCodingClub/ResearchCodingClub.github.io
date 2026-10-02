@@ -24,6 +24,12 @@ layout: null
   --mid-col: #808080;
 }
 
+.btn-primary, .btn-primary:visited {
+    background-color: #75c0d1 !important;
+    border-color: #2e798a !important;
+    color: #330f0a !important;
+}
+
 /* --- General --- */
 
 html {

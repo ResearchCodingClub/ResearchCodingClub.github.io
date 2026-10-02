@@ -28,8 +28,6 @@ navbar-links:
   Course: "course"
   Code Clinics: "clinics"
   Archive: "archive"
-  Categories: "tags"
-  Our Repositories: "https://github.com/ResearchCodingClub"
   Resources:
     - "Resources"               # This is treated specially to parse the "resources collection"
 Tags: "tags"
