@@ -7,7 +7,7 @@
    viewBox="0 0 253.59582 181.10302"
    version="1.1"
    id="svg5"
-   inkscape:version="1.4.3 (unknown)"
+   inkscape:version="1.4.4 (unknown)"
    sodipodi:docname="logo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,13 +26,13 @@
      showgrid="false"
      inkscape:zoom="1.1893044"
      inkscape:cx="273.26898"
-     inkscape:cy="360.71505"
-     inkscape:window-width="3840"
-     inkscape:window-height="2096"
+     inkscape:cy="361.13547"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer2" />
   <defs
      id="defs2" />
   <g
@@ -41,50 +41,31 @@
      inkscape:label="Text"
      transform="translate(-4.9711178e-6,3.9207628)">
     <g
-       id="g1"
-       inkscape:label="Text"
+       id="Research_Coding_Club"
+       inkscape:label="Research Coding Club"
        transform="translate(277.29442,218.89)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:condensed;font-size:100.064px;line-height:0em;font-family:'York Grot';-inkscape-font-specification:'York Grot, Semi-Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.50405;stroke-dasharray:none;stroke-opacity:1"
-         x="-282.10089"
-         y="-48.047112"
+      <title
+         id="title1">Research Coding Club</title>
+      <path
+         style="font-weight:600;font-stretch:condensed;font-size:100.064px;line-height:0em;font-family:'York Grot';-inkscape-font-specification:'York Grot, Semi-Bold Condensed';letter-spacing:0px;stroke-width:3.50405"
+         d="m -256.48451,-46.245959 c 14.30916,0 19.51248,-8.905697 19.51248,-23.314913 0,-3.101984 -0.20012,-4.202688 -0.60038,-5.803712 l -15.30979,1.100704 c 0.20013,1.200768 0.30019,2.401536 0.30019,4.703008 0,8.105184 -1.60102,11.107104 -4.90314,11.107104 -3.70236,0 -5.40345,-4.803072 -5.40345,-24.615745 v -1.601024 c 0.10006,-18.511843 1.80115,-23.014723 5.40345,-23.014723 3.30212,0 4.90314,2.60167 4.90314,10.706851 0,2.301472 -0.10006,2.601664 -0.40026,4.703008 l 15.50992,0.900576 c 0.3002,-1.601024 0.50032,-2.5016 0.50032,-5.603584 0,-14.409221 -5.20332,-22.914661 -19.51248,-22.914661 -15.91017,0 -22.61446,10.20653 -22.81459,35.422661 v 1.400896 c 0,26.216769 5.90378,36.823554 22.81459,36.823554 z m 60.33861,-1.801153 V -60.25492 h -17.61127 v -57.83699 h -15.60998 v 70.044798 z m 26.81722,1.801153 c 14.60934,0 20.81331,-8.705569 20.81331,-23.815233 v -48.030718 h -15.60998 v 52.433534 c 0,4.302752 -1.50096,7.204608 -5.20333,7.204608 -3.9025,0 -5.40346,-2.901856 -5.40346,-7.204608 v -52.433534 h -15.60998 v 48.030718 c 0,15.109664 6.20397,23.815233 21.01344,23.815233 z m 48.63103,-1.801153 c 14.50928,0 23.414981,-6.804352 23.414981,-20.0128 0,-10.306592 -5.303391,-14.509281 -14.509281,-15.810113 l -2.20141,-0.300192 v -0.400256 l 2.20141,-0.300192 c 8.10518,-1.200768 12.107745,-7.104544 12.107745,-16.210365 0,-10.40666 -8.305315,-17.01088 -20.112865,-17.01088 h -19.91274 v 70.044798 z m -3.40217,-57.836998 h 3.30211 c 3.30211,0 5.90378,2.40154 5.90378,7.905061 0,5.603584 -2.60167,7.5048 -5.90378,7.5048 h -3.30211 z m 0,27.61767 h 3.90249 c 3.60231,0 6.70429,2.801792 6.70429,8.50544 0,6.203968 -2.80179,9.50608 -6.70429,9.50608 h -3.90249 z"
          id="text24"
+         inkscape:label="club"
          transform="matrix(0.98998138,0,0,1.01012,1.875e-6,-2.9166671e-7)"
-         inkscape:label="club"><tspan
-           sodipodi:role="line"
-           id="tspan24"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:condensed;font-size:100.064px;line-height:0em;font-family:'York Grot';-inkscape-font-specification:'York Grot, Semi-Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.50405;stroke-dasharray:none;stroke-opacity:1"
-           x="-282.10089"
-           y="-48.047112">CLUB</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:condensed;font-size:65.6651px;font-family:'York Grot';-inkscape-font-specification:'York Grot, Semi-Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.59088;stroke-dasharray:none;stroke-opacity:1"
-         x="-274.47354"
-         y="-128.78181"
+         aria-label="CLUB" />
+      <path
+         d="m -257.66328,-127.59984 c 9.39011,0 12.8047,-5.8442 12.8047,-15.29997 0,-2.03562 -0.13133,-2.75794 -0.39399,-3.80858 l -10.04676,0.72232 c 0.13133,0.78798 0.19699,1.57596 0.19699,3.08626 0,5.31887 -1.05064,7.28883 -3.21759,7.28883 -2.42961,0 -3.54591,-3.15193 -3.54591,-16.15362 v -1.05064 c 0.0657,-12.14804 1.18197,-15.10297 3.54591,-15.10297 2.16695,0 3.21759,1.70729 3.21759,7.02616 0,1.5103 -0.0657,1.70729 -0.26266,3.08626 l 10.17809,0.59099 c 0.197,-1.05064 0.32833,-1.64163 0.32833,-3.67725 0,-9.45577 -3.41459,-15.03731 -12.8047,-15.03731 -10.44075,0 -14.84031,6.69784 -14.97164,23.24545 v 0.91931 c 0,17.20426 3.87424,24.16476 14.97164,24.16476 z m 30.79694,0 c 9.39011,0 14.24933,-6.23819 14.31499,-23.83643 v -0.32833 c 0,-17.86091 -4.85921,-24.16476 -14.31499,-24.16476 -9.39011,0 -14.18366,6.17252 -14.31499,23.63944 v 0.52532 c 0,17.86091 4.85922,24.16476 14.31499,24.16476 z m 0,-8.01114 c -2.8236,0 -3.54591,-2.88927 -3.54591,-16.15362 v -0.39399 c 0,-12.67336 0.65665,-15.75962 3.54591,-15.75962 2.8236,0 3.54592,3.15192 3.54592,16.15361 v 0.39399 c 0,12.93603 -0.65665,15.75963 -3.54592,15.75963 z m 29.87766,6.82917 c 11.03174,0 16.7446,-7.3545 16.7446,-22.98279 0,-15.62829 -6.36951,-22.98278 -15.56263,-22.98278 h -11.75405 v 45.96557 z m -0.32832,-37.95443 h 1.70729 c 3.08626,0 4.59656,3.9399 4.59656,14.97164 0,11.03174 -1.5103,14.97164 -4.59656,14.97164 h -1.70729 z m 32.30726,37.95443 v -45.96557 h -10.24375 v 45.96557 z m 15.95668,0 v -15.16864 l -0.59099,-9.19312 0.52532,-0.19699 8.2738,24.55875 h 10.63775 v -45.96557 h -9.7841 v 15.82528 l 0.59099,9.19312 -0.52532,0.19699 -8.27381,-25.21539 h -10.50641 v 45.96557 z m 36.70684,1.18197 c 3.87424,0 6.56651,-1.7073 8.40513,-6.17252 h 0.26266 l 1.05064,4.99055 h 5.384539 v -24.82141 h -13.920999 v 8.01114 h 3.74291 v 4.26823 c 0,3.48025 -0.91931,5.71287 -3.41459,5.71287 -3.08626,0 -3.61158,-5.12188 -3.61158,-16.15362 0,-11.03174 0.59099,-16.15361 3.61158,-16.15361 2.29828,0 3.54592,1.05064 3.54592,5.90985 0,0.78799 -0.13133,1.77296 -0.39399,2.75794 l 10.112424,1.05064 c 0.26266,-0.98498 0.52532,-2.8236 0.52532,-4.07124 0,-7.55148 -3.414584,-13.65834 -12.804694,-13.65834 -11.16307,0 -15.36563,6.9605 -15.36563,24.16476 0,17.20426 4.20256,24.16476 12.87036,24.16476 z"
          id="text23"
+         style="font-weight:600;font-stretch:condensed;font-size:65.6651px;font-family:'York Grot';-inkscape-font-specification:'York Grot, Semi-Bold Condensed';letter-spacing:0px;stroke-width:2.59088"
+         inkscape:label="coding"
          transform="scale(1.0158547,0.98439274)"
-         inkscape:export-filename="drawing_ds1.png"
-         inkscape:export-xdpi="300"
-         inkscape:export-ydpi="300"
-         inkscape:label="coding"><tspan
-           sodipodi:role="line"
-           id="tspan23"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:condensed;font-size:65.6651px;font-family:'York Grot';-inkscape-font-specification:'York Grot, Semi-Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.59088;stroke-dasharray:none;stroke-opacity:1"
-           x="-274.47354"
-           y="-128.78181">CODING</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.7576px;line-height:0em;font-family:'York Grot';-inkscape-font-specification:'York Grot, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.917;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         x="-279.6348"
-         y="-178.56317"
+         aria-label="CODING" />
+      <path
+         d="m -269.68825,-178.56317 v -13.74964 h 1.2677 c 1.99906,0 2.34037,1.36521 2.34037,6.82606 v 1.36521 c 0,3.31552 0.29254,4.38819 0.92639,5.55837 h 7.94749 c -1.07267,-3.12049 -1.56024,-4.92452 -1.56024,-8.43507 v -0.78012 c 0,-2.53539 -0.82888,-5.70464 -4.87576,-6.38724 v -0.39006 c 3.07173,-0.68261 5.80215,-2.97422 5.80215,-8.87389 0,-5.99718 -3.31552,-9.26394 -10.53164,-9.26394 h -8.92264 v 34.13032 z m 0,-28.18189 h 0.97516 c 1.9503,0 2.97421,0.63385 2.97421,3.85185 0,3.70557 -1.02391,4.63197 -2.97421,4.63197 h -0.97516 z m 33.20395,28.18189 v -5.94843 h -9.70277 v -8.14252 h 7.65495 v -5.94842 h -7.65495 v -8.14252 h 9.11768 v -5.94843 h -16.72386 v 34.13032 z m 11.75055,0.87764 c 5.85091,0 10.09282,-3.60807 10.09282,-10.62916 0,-5.94843 -3.16924,-8.58134 -6.19221,-10.33661 l -1.36522,-0.78012 c -2.63291,-1.51149 -4.72948,-2.1941 -4.72948,-5.46085 0,-1.95031 0.73136,-2.92546 1.9503,-2.92546 0.97515,0 1.70652,0.63385 1.70652,2.82794 0,0.97515 -0.19503,1.99906 -0.34131,2.48664 l 7.50867,0.58509 c 0.34131,-1.12143 0.43882,-1.46273 0.43882,-2.97421 0,-4.87576 -2.63291,-8.67886 -9.41021,-8.67886 -6.48477,0 -9.45898,4.24191 -9.45898,9.50773 0,5.26583 2.63291,7.94749 5.36334,9.50774 l 0.6826,0.39006 c 3.41304,1.9503 6.0947,3.31551 6.0947,6.92358 0,2.53539 -0.97515,3.80309 -2.63291,3.80309 -1.46272,0 -2.48663,-0.97515 -2.48663,-3.55931 0,-1.70651 0.14627,-2.43788 0.48757,-3.46179 l -7.65494,-0.48757 c -0.29255,0.87764 -0.43882,1.65776 -0.43882,3.02297 0,6.63103 3.75434,10.2391 10.38537,10.2391 z m 31.39993,-0.87764 v -5.94843 h -9.70276 v -8.14252 h 7.65494 v -5.94842 h -7.65494 v -8.14252 h 9.11767 v -5.94843 h -16.72386 v 34.13032 z m 25.25646,0 -6.0947,-34.13032 h -10.48288 l -6.04595,34.13032 h 8.09377 l 0.82888,-7.55743 h 5.07079 l 0.92639,7.55743 z m -11.50679,-28.27941 h 0.39006 l 1.80403,14.96858 h -3.80309 z m 21.94089,28.27941 v -13.74964 h 1.26769 c 1.99907,0 2.34037,1.36521 2.34037,6.82606 v 1.36521 c 0,3.31552 0.29254,4.38819 0.92639,5.55837 h 7.94749 c -1.07266,-3.12049 -1.56024,-4.92452 -1.56024,-8.43507 v -0.78012 c 0,-2.53539 -0.82888,-5.70464 -4.87576,-6.38724 v -0.39006 c 3.07173,-0.68261 5.80215,-2.97422 5.80215,-8.87389 0,-5.99718 -3.31551,-9.26394 -10.53164,-9.26394 h -8.92264 v 34.13032 z m 0,-28.18189 h 0.97515 c 1.9503,0 2.97421,0.63385 2.97421,3.85185 0,3.70557 -1.02391,4.63197 -2.97421,4.63197 h -0.97515 z m 26.03657,29.05953 c 6.97233,0 9.50773,-4.33943 9.50773,-11.36053 0,-1.51148 -0.0975,-2.04781 -0.29255,-2.82794 l -7.45991,0.53634 c 0.0975,0.58509 0.14627,1.17018 0.14627,2.2916 0,3.94937 -0.78012,5.4121 -2.38912,5.4121 -1.80403,0 -2.63291,-2.34037 -2.63291,-11.99437 v -0.78012 c 0.0488,-9.02016 0.87764,-11.21425 2.63291,-11.21425 1.609,0 2.38912,1.2677 2.38912,5.21706 0,1.12143 -0.0487,1.2677 -0.19503,2.29161 l 7.55743,0.43882 c 0.14627,-0.78012 0.24379,-1.21894 0.24379,-2.73043 0,-7.02109 -2.5354,-11.16549 -9.50773,-11.16549 -7.75246,0 -11.01922,4.97328 -11.11674,17.26019 v 0.68261 c 0,12.77449 2.8767,17.9428 11.11674,17.9428 z m 20.81951,-0.87764 v -14.96858 h 5.1683 v 14.96858 h 7.606187 v -34.13032 h -7.606187 v 13.21331 h -5.1683 v -13.21331 h -7.60619 v 34.13032 z"
          id="text29"
-         inkscape:label="research"><tspan
-           sodipodi:role="line"
-           id="tspan29"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.7576px;font-family:'York Grot';-inkscape-font-specification:'York Grot, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.917"
-           x="-279.6348"
-           y="-178.56317">RESEARCH</tspan></text>
+         style="font-size:48.7576px;line-height:0em;font-family:'York Grot';-inkscape-font-specification:'York Grot, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:1.917"
+         inkscape:label="research"
+         aria-label="RESEARCH" />
     </g>
   </g>
   <g
