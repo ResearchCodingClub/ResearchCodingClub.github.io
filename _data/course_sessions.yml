@@ -38,6 +38,20 @@
     date: "Wednesday ?? January 2027"
     confirmed: false
 
+- title: "Unit Testing in Fortran"
+  date: "Wednesday 11th November 2026, 1pm to 5pm"
+  online: false
+  synopsis: |
+    Are you a Fortan developer interested in unit testing? Connor Aird, 
+    a Research Software Engineer from University College London is visiting York to 
+    deliver a workshop to teach you how to do just this. This walkthrough aims to: 
+    - Demonstrate the importance of testing Fortran codes with unit tests; 
+    - Show how to write unit tests for Fortran Code using pFUnit; 
+    - Show how to integrate these tests with CMake; 
+    - Highlight the differences between writing unit tests for parallel and serial Fortran code.
+  confirmed: true
+  sign_up_form: https://forms.gle/bvgJnPC9qE775Aq58
+
 - title: "Software Design"
   date: "Date TBC"
   online: false
