@@ -19,12 +19,16 @@ programme that will teach you a whole range of skills.
 {% for session in site.data.course_sessions %}
 - **[{{ session.title }}](#{{ session.title | slugify }})**,
   {% if session.confirmed -%}*{{ session.date }}*{% else %}<span style="color: #ff0000">*{{ session.date }}*</span>{%- endif -%},
-  {% if session.sign_up_form -%}[**sign up here!**]({{ session.sign_up_form }})
+  {% if session.completed -%}
+  sign-up closed
+  {%- elsif session.sign_up_form -%}[**sign up here!**]({{ session.sign_up_form }})
   {%- else -%}<span style="color: #ff0000">Sign-up form coming soon!</span>
   {%- endif -%}
 {%- if session.repeat %}
   - Repeated {% if session.repeat.confirmed -%}*{{ session.repeat.date }}*{% else %}<span style="color: #ff0000">*{{ session.repeat.date }}*</span>{%- endif -%},
-    {% if session.repeat.sign_up_form -%}[**sign up here!**]({{ session.repeat.sign_up_form }})
+    {% if session.repeat.completed -%}
+    sign-up closed
+    {% elsif session.repeat.sign_up_form -%}[**sign up here!**]({{ session.repeat.sign_up_form }})
     {%- else -%}<span style="color: #ff0000">Sign-up form coming soon!</span>
     {% endif %}
 {%- endif -%}
@@ -67,20 +71,30 @@ Windows or Linux on the dual-boot PCs, or bring your own laptop.
 {% for session in site.data.course_sessions %}
 ### {{ session.title }}
 - {% if session.confirmed -%}**{{ session.date }}**{% else %}<span style="color: #ff0000">{{ session.date }}</span>{%- endif -%}
+  {%- if session.materials %}
+  - [**Session materials**]({{ session.materials }})
+  {%- endif -%}
+  {%- if session.recording %}
+  -[**Session recording**]({{ session.recording }})
+  {%- endif -%}
+  {%- unless session.completed -%}
   {%- if session.sign_up_form %}
   - [**Sign up here!**]({{ session.sign_up_form }})
   {%- else %}
   - <span style="color: #ff0000">Sign-up form coming soon!</span>
   {%- endif %}
   - {% if session.online %}Online{% else %}In person{% endif %}
+  {%- endunless %}
 {%- if session.repeat %}
 - {% if session.repeat.confirmed -%}**{{ session.repeat.date }}**{% else %}<span style="color: #ff0000">{{ session.repeat.date }}</span>{%- endif -%}
+  {%- unless session.repeat.completed -%}
   {%- if session.repeat.sign_up_form %}
     - [**Sign up here!**]({{ session.repeat.sign_up_form }})
   {%- else %}
     - <span style="color: #ff0000">Sign-up form coming soon!</span>
   {%- endif %}
   - {% if session.repeat.online %}Online{% else %}In person{% endif %}
+  {%- endunless -%}
 {%- endif %}
 
 {{ session.synopsis }}
