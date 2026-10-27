@@ -24,6 +24,13 @@ programme that will teach you a whole range of skills.
   {%- elsif session.sign_up_form -%}[**sign up here!**]({{ session.sign_up_form }})
   {%- else -%}<span style="color: #ff0000">Sign-up form coming soon!</span>
   {%- endif -%}
+  {%- for materials in session.materials -%}
+  , [{{ materials.name | downcase }}]({{ materials.url }})
+  {%- endfor -%}
+  {%- if session.recording -%}
+  , [recording]({{ session.recording.url }}), password: {{ session.recording.password }}
+  {%- endif -%}
+
 {%- if session.repeat %}
   - Repeated {% if session.repeat.confirmed -%}*{{ session.repeat.date }}*{% else %}<span style="color: #ff0000">*{{ session.repeat.date }}*</span>{%- endif -%},
     {% if session.repeat.completed -%}
