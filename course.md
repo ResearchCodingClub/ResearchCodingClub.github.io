@@ -71,11 +71,11 @@ Windows or Linux on the dual-boot PCs, or bring your own laptop.
 {% for session in site.data.course_sessions %}
 ### {{ session.title }}
 - {% if session.confirmed -%}**{{ session.date }}**{% else %}<span style="color: #ff0000">{{ session.date }}</span>{%- endif -%}
-  {%- if session.materials %}
-  - [**Session materials**]({{ session.materials }})
-  {%- endif -%}
-  {%- if session.recording %}
-  -[**Session recording**]({{ session.recording }})
+  {%- for materials in session.materials %}
+  - [**{{ materials.name }}**]({{ materials.url }})
+  {%- endfor -%}
+  {% if session.recording %}
+  - [**Session recording**]({{ session.recording.url }}), password: {{ session.recording.password }}
   {%- endif -%}
   {%- unless session.completed -%}
   {%- if session.sign_up_form %}

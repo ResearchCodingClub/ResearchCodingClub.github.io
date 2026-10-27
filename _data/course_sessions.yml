@@ -8,7 +8,12 @@
   confirmed: true
   sign_up_form: https://forms.gle/GMYnMMGUuf58JkE48
   completed: true
-  materials: https://docs.google.com/presentation/d/1P5dHCa6yvODlx7i6l89083gR-PpTCYsTQI1QgcqGS2k
+  materials:
+    - name: Session materials
+      url: https://docs.google.com/presentation/d/1P5dHCa6yvODlx7i6l89083gR-PpTCYsTQI1QgcqGS2k
+  recording:
+    url: https://york-ac-uk.zoom.us/rec/share/K0wL84qjVQbjv8IpSRlnMOW5n1BAhNpGDUbJydM6dpzewNGG0g_x90Ujh69JcRuw.s12wIpWjuR8SnrSw
+    password: "irR0dG#k"
 
 - title: "Software lifecycle planning"
   date: "Wednesday 28th October 2026, 2pm to 3pm"
