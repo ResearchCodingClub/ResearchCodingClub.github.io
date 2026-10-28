@@ -90,7 +90,7 @@ Windows or Linux on the dual-boot PCs, or bring your own laptop.
   {%- else %}
   - <span style="color: #ff0000">Sign-up form coming soon!</span>
   {%- endif %}
-  - {% if session.online %}Online{% else %}In person{% endif %}
+  - {{ session.location }}
   {%- endunless %}
 {%- if session.repeat %}
 - {% if session.repeat.confirmed -%}**{{ session.repeat.date }}**{% else %}<span style="color: #ff0000">{{ session.repeat.date }}</span>{%- endif -%}
@@ -100,7 +100,7 @@ Windows or Linux on the dual-boot PCs, or bring your own laptop.
   {%- else %}
     - <span style="color: #ff0000">Sign-up form coming soon!</span>
   {%- endif %}
-  - {% if session.repeat.online %}Online{% else %}In person{% endif %}
+  - {{ session.repeat.location }}
   {%- endunless -%}
 {%- endif %}
 

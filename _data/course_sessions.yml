@@ -1,6 +1,6 @@
 - title: "Better Software for Better Research: Introduction to the Research Coding Course"
   date: "Wednesday 14th October 2026, 1pm to 2pm"
-  online: true
+  location: "Online"
   synopsis: |
     In this introductory session we will try to understand what the FAIR principles
     are and why they have emerged. We will then introduce some actions on how to
@@ -17,7 +17,7 @@
 
 - title: "Software lifecycle planning"
   date: "Wednesday 28th October 2026, 2pm to 3pm"
-  online: true
+  location: "Online"
   synopsis: |
     When you start writing software it is often very useful to think about the
     development process and how you will make your software sustainable in the long
@@ -30,7 +30,7 @@
 
 - title: "Version Control: Introduction to Git and GitHub"
   date: "Wednesday 4th November 2026, 2pm to 5pm"
-  online: false
+  location: "In person"
   synopsis: |
     If you’ve never heard of or used version control and Git before this is the
     course for you. We start by introducing version control and exploring how it can
@@ -44,10 +44,11 @@
   repeat:
     date: "Wednesday ?? January 2027"
     confirmed: false
+    location: "In person"
 
 - title: "Unit Testing in Fortran"
   date: "Wednesday 11th November 2026, 1pm to 5pm"
-  online: false
+  location: "In person"
   synopsis: |
     Are you a Fortan developer interested in unit testing? Connor Aird, 
     a Research Software Engineer from University College London is visiting York to 
@@ -61,7 +62,7 @@
 
 - title: "Software Design"
   date: "Wednesday 18th November 2026, 2pm to 3pm"
-  online: true
+  location: "Hybrid online/in person"
   synopsis: |
     The way you write your code will have a massive impact on how easy it is to
     maintain. During this course we will learn how to create maintainable, readable
@@ -73,7 +74,7 @@
 
 - title: "Testing and Continuous Integration"
   date: "Wednesday ?? February 2027"
-  online: false
+  location: "In person"
   synopsis: |
     This course aims to equip researchers with the skills to write effective tests
     and ensure the quality and reliability of their research software. No prior
@@ -87,7 +88,7 @@
 
 - title: "Documentation"
   date: "Wednesday ?? April 2027, 1pm to 4pm"
-  online: false
+  location: "In person"
   synopsis: |
     Well-documented software promotes reproducibility, maintainability, and
     increased research impact through wider adoption and citation. This course
@@ -98,7 +99,7 @@
 
 - title: "Reproducible computational environments"
   date: "Wednesday ?? March 2027, 1pm to 3pm"
-  online: false
+  location: "In person"
   synopsis: |
     Ensuring that others are able to take your code, run it, and are able to produce
     the same (or equivalent) results is one of the key tenets of FAIR and
@@ -111,7 +112,7 @@
 
 - title: "Packaging"
   date: "Wednesday ?? 2027, 1pm to 4pm, in person.**"
-  online: false
+  location: "In person"
   synopsis: |
     Packaging your software is one of the important steps in a software project to
     make it both findable and accessible. This session will provide you with an
@@ -131,7 +132,7 @@
 
 - title: "Publishing a software paper in JOSS"
   date: "Wednesday ?? April 2027, 1pm to 2pm, hybrid.**"
-  online: false
+  location: "In person"
   synopsis: |
     Did you know that you can actually publish a paper about your software? This is
     an ideal way to get recognition (and citation) for the software you have spent
