@@ -60,15 +60,16 @@
   sign_up_form: https://forms.gle/bvgJnPC9qE775Aq58
 
 - title: "Software Design"
-  date: "Date TBC"
-  online: false
+  date: "Wednesday 18th November 2026, 2pm to 3pm"
+  online: true
   synopsis: |
     The way you write your code will have a massive impact on how easy it is to
     maintain. During this course we will learn how to create maintainable, readable
     and reusable code. Using examples and exercises, we will see that creating high
     quality code is actually quite straightforward when you understand how to do it
     and what tools are available to make your life easier.
-  confirmed: false
+  confirmed: true
+  sign_up_form: https://forms.gle/KMaafQM7Gnzs53Vo6
 
 - title: "Testing and Continuous Integration"
   date: "Wednesday ?? February 2027"
