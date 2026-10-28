@@ -27,6 +27,13 @@
     when starting a research software project.
   confirmed: true
   sign_up_form: https://forms.gle/kMaXztvXCZyv171FA
+  completed: true
+  materials:
+    - name: Session materials
+      url: https://docs.google.com/presentation/d/1pAwfg1H5Ny957NRrUlNhCRizVs4AkuBooYWcL7zu6i0/edit?usp=sharing
+  recording:
+    url: https://york-ac-uk.zoom.us/rec/share/jYd37G55jcY6jgc3zSBH7MAQ1PBwGbIa27CLyLCHEfj_TVlXzkR34vc_cyE_5_Y.FT2Yxr1OH2NRTSjQ
+    password: rC6q*sr8
 
 - title: "Version Control: Introduction to Git and GitHub"
   date: "Wednesday 4th November 2026, 2pm to 5pm"
