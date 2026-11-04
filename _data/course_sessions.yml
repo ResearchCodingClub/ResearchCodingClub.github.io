@@ -48,6 +48,12 @@
     experience with using version control in a research setting.
   confirmed: true
   sign_up_form: https://forms.gle/txAFKBGAqZr2bkj6A
+  completed: true
+  materials:
+    - name: Session slides
+      url: https://docs.google.com/presentation/d/1ifKyvCnR-ZcJokvKrrfUbf9n7lmIrP8XKRz9Uqyu538
+    - name: Exercises
+      url: https://researchcodingclub.github.io/version-control
   repeat:
     date: "Wednesday ?? January 2027"
     confirmed: false
